@@ -202,7 +202,7 @@ There are 25 prompts, one for each day. How do we play?
 
 ## Resources
 
-### Images for your Post
+### Images for your Posts
 
 {% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}<br/>
 {% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}<br/>
