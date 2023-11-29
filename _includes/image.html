@@ -1,0 +1,11 @@
+{% for img in page.images %}
+  {% if img.id == include.id %}
+    {% if include.position == "centered" %}
+      {% include image_centered.html image=img %}
+      {% break %}
+    {% else %}
+      {% include image_tag.html image=img position=include.position %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
