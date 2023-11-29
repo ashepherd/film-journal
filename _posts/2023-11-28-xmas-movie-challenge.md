@@ -200,10 +200,10 @@ There is something special about Christmas movies. {% include pullquote.html quo
 
 ### Ideas for Christmas Movies
 
-* https://letterboxd.com/search/christmas+films/
+* [Letterboxd - Search for Christmas films](https://letterboxd.com/search/christmas+films/)
 * [IMDb - The Top 100 Christmas movies of all-time](https://www.imdb.com/list/ls000096828/)
-* https://editorial.rottentomatoes.com/guide/best-christmas-movies/
-* https://en.wikipedia.org/wiki/List_of_Christmas_films
+* [Rotten Tomatoes - Best Christmas Movies](https://editorial.rottentomatoes.com/guide/best-christmas-movies/)
+* [Wikipedia - List of Christmas Films](https://en.wikipedia.org/wiki/List_of_Christmas_films)
 
 ### Images for your Posts
 
