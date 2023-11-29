@@ -17,7 +17,7 @@
   {% assign position = "right" %}
 {% endif %}
 
-<div style="{% if include.image.max-width> %}; max-width: {{ include.image.max-width }}{% endif %}">
+<div style="{% if include.image.max-width> %}max-width: {{ include.image.max-width }}{% endif %}{% if include.image.display> %}; display: {{ include.image.display }}{% endif %}">
 {% if include.image.url %}
   <a href="{{ include.image.url }}" target="_blank">{{ img_tag }}</a>
 {% else %}
