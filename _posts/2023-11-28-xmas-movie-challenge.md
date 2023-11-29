@@ -215,4 +215,4 @@ There is something special about Christmas movies. {% include pullquote.html quo
 
 ## Credits
 
-* A special thank you to this blog post that inspired our challenge: https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/
+* A special thank you to this blog post that inspired our challenge: [https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/](https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/)
