@@ -204,10 +204,10 @@ There are 25 prompts, one for each day. How do we play?
 
 ### Images for your Post
 
-{% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}
-{% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}
-{% include image.html id="dec11" %}{% include image.html id="dec12" %}{% include image.html id="dec13" %}{% include image.html id="dec14" %}{% include image.html id="dec15" %}
-{% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}
-{% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}
+{% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}<br/>
+{% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}<br/>
+{% include image.html id="dec11" %}{% include image.html id="dec12" %}{% include image.html id="dec13" %}{% include image.html id="dec14" %}{% include image.html id="dec15" %}<br/>
+{% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}<br/>
+{% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}<br/>
 
 
