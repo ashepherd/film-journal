@@ -165,7 +165,6 @@ There is something special about Christmas movies. Spanning all genres they brin
 2. Make a social media post, we prefer [Instagram](https://instagram.com).
 3. Share your post with hashtag: __#25daychristmasmoviechallenge__
 
-
 ## The Prompts
 
 
@@ -199,6 +198,13 @@ There is something special about Christmas movies. Spanning all genres they brin
 
 ## Resources
 
+### Ideas for Christmas Movies
+
+* https://letterboxd.com/search/christmas+films/
+* [IMDb - The Top 100 Christmas movies of all-time](https://www.imdb.com/list/ls000096828/)
+* https://editorial.rottentomatoes.com/guide/best-christmas-movies/
+* https://en.wikipedia.org/wiki/List_of_Christmas_films
+
 ### Images for your Posts
 
 {% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}
@@ -207,4 +213,6 @@ There is something special about Christmas movies. Spanning all genres they brin
 {% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}
 {% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}
 
+## Credits
 
+* A special thank you to this blog post that inspired our challenge: https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/
