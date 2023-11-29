@@ -134,11 +134,12 @@ images:
 
 There is something special about Christmas movies. Spanning all genres they bring us laughter, frights, tears of sadness and joy. 
 The 25-day Christmas Movie Challenge is an opportunity to share your favorites starting on December 1st leading up to Christmas day. 
-There are 25 prompts, one for each day. How do we play? {% include pullquote.html quote="“Fraa-jeel-aay! It must be Italian!” —Old Man Parker, A Christmas Story" %}
+There are 25 prompts, one for each day. How do we play? 
 
 ## Playing the Game
 
 1. For each prompt, pick a movie.
+{% include pullquote.html quote="“Fraa-jeel-aay! It must be Italian!” —Old Man Parker, A Christmas Story" %}
 2. Make a social media post, we prefer [Instagram](https://instagram.com).
 3. Share your post with hashtag: __#25daychristmasmoviechallenge__
 
@@ -178,30 +179,10 @@ There are 25 prompts, one for each day. How do we play? {% include pullquote.htm
 
 ### Images for your Post
 
-{% include image.html id="dec01" %}
-{% include image.html id="dec02" %}
-{% include image.html id="dec03" %}
-{% include image.html id="dec04" %}
-{% include image.html id="dec05" %}
-{% include image.html id="dec06" %}
-{% include image.html id="dec07" %}
-{% include image.html id="dec08" %}
-{% include image.html id="dec09" %}
-{% include image.html id="dec10" %}
-{% include image.html id="dec11" %}
-{% include image.html id="dec12" %}
-{% include image.html id="dec13" %}
-{% include image.html id="dec14" %}
-{% include image.html id="dec15" %}
-{% include image.html id="dec16" %}
-{% include image.html id="dec17" %}
-{% include image.html id="dec18" %}
-{% include image.html id="dec19" %}
-{% include image.html id="dec20" %}
-{% include image.html id="dec21" %}
-{% include image.html id="dec22" %}
-{% include image.html id="dec23" %}
-{% include image.html id="dec24" %}
-{% include image.html id="dec25" %}
+{% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}
+{% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}
+{% include image.html id="dec11" %}{% include image.html id="dec12" %}{% include image.html id="dec13" %}{% include image.html id="dec14" %}{% include image.html id="dec15" %}
+{% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}
+{% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}
 
 
