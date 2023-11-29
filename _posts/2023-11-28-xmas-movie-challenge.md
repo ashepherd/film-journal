@@ -7,151 +7,151 @@ images:
   - id: dec01
     path: xmas/dec01-childhood-favorite.jpeg
     caption: Childhood Favorite
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec02
     path: xmas/dec02-favorite-classic.jpeg
     caption: Favorite Classic
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec03
     path: xmas/dec03-favorite-elf.jpeg
     caption: Favorite Elf
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec04
     path: xmas/dec04-forget-its-xmas.jpeg
     caption: I Always Forget is Christmas
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec05
     path: xmas/dec05-favorite-animated.jpeg
     caption: Favorite Animated
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec06
     path: xmas/dec06-worst-santa.jpeg
     caption: Worst Santa
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec07
     path: xmas/dec07-favorite-santa.jpeg
     caption: Favorite Santa
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec08
     path: xmas/dec08-weirdest.jpeg
     caption: Weirdest
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec09
     path: xmas/dec09-favorite-remake.jpeg
     caption: Favorite Remake
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec10
     path: xmas/dec10-most-in-need-remake.jpeg
     caption: Most in Need of Remake	
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec11
     path: xmas/dec11-most-underrated.jpeg
     caption: Most Underrated	
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec12
     path: xmas/dec12-most-overrated.jpeg
     caption: Most Overrated	
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec13
     path: xmas/dec13-dysfunctional-family.jpeg
     caption: Dysfunctional Family
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec14
     path: xmas/dec14-favorite-scary.jpeg
     caption: Favorite Scary
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec15
     path: xmas/dec15-favorite-comedy.jpeg
     caption: Favorite Comedy
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec16
     path: xmas/dec16-favorite-sequel.jpeg
     caption: Favorite Sequel
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec17
     path: xmas/dec17-least-favorite.jpeg
     caption: Least Favorite
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec18
     path: xmas/dec18-favorite-underlying-theme.jpeg
     caption: Favorite Underlying Theme
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec19
     path: xmas/dec19-unconventional.jpeg
     caption: Favorite Unexpected (Unconventional)
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec20
     path: xmas/dec20-camraderie.jpeg
     caption: Favorite Team, Duo or Company
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec21
     path: xmas/dec21-saddest.jpeg
     caption: Saddest
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec22
     path: xmas/dec22-inspirational.jpeg
     caption: Favorite Inspirational
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec23
     path: xmas/dec231-guilty-pleasure.jpeg
     caption: Guilty Pleasure
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec24
     path: xmas/dec24-heartwarming.jpeg
     caption: Most Heartwarming	
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
   - id: dec25
     path: xmas/dec25-all-time-favorite.jpeg
     caption: All-Time Favorite
-    max-width: 100px
+    max-width: 125px
     display: inline
     border: true
 ---
@@ -204,10 +204,10 @@ There are 25 prompts, one for each day. How do we play?
 
 ### Images for your Posts
 
-{% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}<br/>
-{% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}<br/>
-{% include image.html id="dec11" %}{% include image.html id="dec12" %}{% include image.html id="dec13" %}{% include image.html id="dec14" %}{% include image.html id="dec15" %}<br/>
-{% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}<br/>
-{% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}<br/>
+{% include image.html id="dec01" %}{% include image.html id="dec02" %}{% include image.html id="dec03" %}{% include image.html id="dec04" %}{% include image.html id="dec05" %}&nbsp;
+{% include image.html id="dec06" %}{% include image.html id="dec07" %}{% include image.html id="dec08" %}{% include image.html id="dec09" %}{% include image.html id="dec10" %}&nbsp;
+{% include image.html id="dec11" %}{% include image.html id="dec12" %}{% include image.html id="dec13" %}{% include image.html id="dec14" %}{% include image.html id="dec15" %}&nbsp;
+{% include image.html id="dec16" %}{% include image.html id="dec17" %}{% include image.html id="dec18" %}{% include image.html id="dec19" %}{% include image.html id="dec20" %}&nbsp;
+{% include image.html id="dec21" %}{% include image.html id="dec22" %}{% include image.html id="dec23" %}{% include image.html id="dec24" %}{% include image.html id="dec25" %}&nbsp;
 
 
