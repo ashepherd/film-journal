@@ -137,7 +137,7 @@ images:
     display: inline
     border: true
   - id: dec23
-    path: xmas/dec231-guilty-pleasure.jpeg
+    path: xmas/dec23-guilty-pleasure.jpeg
     caption: Guilty Pleasure
     max-width: 125px
     display: inline
