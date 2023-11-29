@@ -158,7 +158,7 @@ images:
 ![](/images/xmas/challenge.jpeg)
 
 There is something special about Christmas movies. Spanning all genres they bring us laughter, frights, tears of sadness and joy. 
-{% include pullquote.html quote="“Fraa-jeel-aay! It must be Italian!” —Old Man Parker, A Christmas Story" %}
+{% include pullquote.html quote="Fraa-jeel-aay! It must be Italian! —Old Man Parker, A Christmas Story" %}
 The 25-day Christmas Movie Challenge is an opportunity to share your favorites starting on December 1st leading up to Christmas day. 
 There are 25 prompts, one for each day. How do we play? 
 
