@@ -71,9 +71,9 @@ Memories of Christmas during my childhood are .... interesting. I remember them 
 I remember 
 
 1. the smell of a **fresh cut tree**
-2. making a [Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/) with needle, string, stale popcorn, and cranberries
-3. burning my little fingers on [glowing hot, multicolored light strings](https://a.co/d/gbF061r), and 
-4. _The Wizard of Oz_ coming on television at 8pm on a Tuesday night early in December.
+2. making a [Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/) **with needle, string, stale popcorn, and cranberries**
+3. **burning my little fingers** on [glowing hot, multicolored light strings](https://a.co/d/gbF061r), and 
+4. _The Wizard of Oz_ coming on **television at 8pm on a Tuesday night early in December**.
 
 As an 8 yr. old boy, it seemed as if my parents were guiding us kids into an amazing holiday tradition passed down from one generation to the next - decorating the tree to the backdrop of Judy Garland, Toto, and the Yellow Brick Road. It movie starts out in B&W, so surely it was old. Old enough for my my twenty-something parents to have watched it on TVs in their childhood. 
 
