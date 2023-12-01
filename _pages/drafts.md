@@ -11,7 +11,7 @@ title: Drafts
     </tr>
   </thead>
   <tbody>
-  {% for draft in site.drafts %}
+  {% for draft in site.drafts reversed %}
     <tr>
       <th><a href="{{ draft.url }}">{{ draft.title }}</a></th>
       <td>{% if draft.date %}{{ draft.date | date_to_string: "ordinal", "US" }}{% else %}<span class="is-italic">not specified</span>{% endif %}</td>
