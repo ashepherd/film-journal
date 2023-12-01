@@ -17,14 +17,12 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: boy-girls
-    path: https://m.media-amazon.com/images/M/MV5BZjk1NjI1MzktMTc3MS00MjNkLTg5MDQtMTk2MWNiYWQ1MTM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
   - id: general
     path: https://m.media-amazon.com/images/M/MV5BZjJlOTk3MGMtNThjNC00NTNiLTllZDMtYzEyZjYxNWJhNzMxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
-  - id: letter
-    path: https://m.media-amazon.com/images/M/MV5BOWIwNmNiZmUtNDM0OS00YjJhLWI3OGMtNzc3Nzk0OWFiOTJmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
-  - id: ski-lodge
-    path: https://m.media-amazon.com/images/M/MV5BNzUwMWI3MDctMjQzZC00NzAyLWI3MTUtOTg4NzQ0MjhhZjllXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+  - id: boy-girls
+    path: https://m.media-amazon.com/images/M/MV5BZjk1NjI1MzktMTc3MS00MjNkLTg5MDQtMTk2MWNiYWQ1MTM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+  - id: vermont
+    path: https://m.media-amazon.com/images/M/MV5BYTM4OTA4NGItZjA1OC00MTg4LWFhNmQtZTg2NjkxOTIyYjRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
   - id: performance
     path: https://m.media-amazon.com/images/M/MV5BNzY5ZWNlZDAtZjQzNC00ODIwLWI5YzktNmI2YjMwYWJkNjhlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
   - id: general-old
@@ -46,12 +44,7 @@ excerpt: Are the memories of our youth accurate?
 ## The Gist
 
 <div style="text-align: center">
-  {% include image.html id="general" style="max-width: 168px" %}
-  {% include image.html id="boy-girls" style="max-width: 168px" %}
-  {% include image.html id="letter" style="max-width: 168px" %}
-  {% include image.html id="ski-lodge" style="max-height: 168px" %}
-  {% include image.html id="performance" style="max-height: 168px" %}
-  {% include image.html id="general-old" style="max-height: 168px" %}
+  {% include image.html id="general" style="max-width: 168px" %}{% include image.html id="boy-girls" style="max-width: 168px" %}{% include image.html id="vermont" style="max-width: 168px" %}{% include image.html id="performance" style="max-height: 168px" %}{% include image.html id="general-old" style="max-height: 168px" %}
 </div>
 
  * 1...
