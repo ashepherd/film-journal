@@ -3,8 +3,14 @@ layout: post
 title:  Childhood Favorite - The Wizard of Oz
 categories: [2023 XMAS Challenge]
 excerpt: Something witty
-image: [path-to-image]
+image: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
 images:
+  - id: dec01
+    path: xmas/dec01-childhood-favorite.jpeg
+    caption: Childhood Favorite
+    max-width: 125px
+    display: inline
+    border: true
   - id: poster
     path: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
     url: https://www.imdb.com/title/tt0032138/
@@ -36,11 +42,13 @@ images:
 ---
 
 {% include image.html id="poster" %}
-{% include image.html id="img1" %}{% include image.html id="img2" %}{% include image.html id="img3" %}{% include image.html id="img4" %}{% include image.html id="img5" %} 
+{% include image.html id="dec01" %}{% include image.html id="lights" %}{% include image.html id="garland" %}{% include image.html id="tv" %}
 
 ## The Gist
 
-TLDR...
+ * The family tradition of decorating the Christmas tree
+ * Holiday films on TV after Thanksgiving on a school night
+ * The dangers of making a popcorn garland, and  burns from glowing hot, multi-colored xmas tree lights
 
 ## The Details
 
