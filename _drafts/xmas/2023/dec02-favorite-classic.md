@@ -18,7 +18,7 @@ images:
     display: inline
     border: true
   - id: general
-    path: https://m.media-amazon.com/images/M/MV5BZjJlOTk3MGMtNThjNC00NTNiLTllZDMtYzEyZjYxNWJhNzMxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
+    path: https://m.media-amazon.com/images/M/MV5BYWMwMDJkYmUtNTFkZi00Njg2LWI1ODUtM2I1Yzk4NTUzNWM2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
     display: inline
   - id: boy-girls
     path: https://m.media-amazon.com/images/M/MV5BZjk1NjI1MzktMTc3MS00MjNkLTg5MDQtMTk2MWNiYWQ1MTM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
@@ -48,15 +48,19 @@ excerpt: Are the memories of our youth accurate?
 
 ## The Gist
 
-<div style="text-align: center">
-  {% include image.html id="general" style="max-width: 168px" %}{% include image.html id="boy-girls" style="max-width: 168px" %}{% include image.html id="vermont" style="max-width: 168px" %}{% include image.html id="performance" style="max-height: 168px" %}{% include image.html id="general-old" style="max-height: 168px" %}
-</div>
-
  * 1...
  * 2...
  * 3...
 
 ## The Details
+
+<div style="text-align: center">
+  {% include image.html id="general" style="max-height: 168px" %}
+  {% include image.html id="boy-girls" style="max-height: 168px" %}
+  {% include image.html id="vermont" style="max-height: 168px" %}
+  {% include image.html id="performance" style="max-height: 168px" %}
+  {% include image.html id="general-old" style="max-height: 168px" %}
+</div>
 
 ...
 
