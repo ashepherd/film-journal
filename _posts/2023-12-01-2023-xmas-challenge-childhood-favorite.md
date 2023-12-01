@@ -47,15 +47,15 @@ images:
     border: true
 ---
 
-{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}
+<div style="text-align: center">{{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}</div>
 
 ## The Trailer 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">{<iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## The Gist
 
-{% include image.html id="lights" style="max-width: 168px" %}{% include image.html id="garland" style="max-width: 168px" %}{% include image.html id="tv" style="max-width: 168px" %}
+<div style="text-align: center">{% include image.html id="lights" style="max-width: 168px" %}{% include image.html id="garland" style="max-width: 168px" %}{% include image.html id="tv" style="max-height: 168px" %}</div>
 
  * The family tradition of decorating the Christmas tree 
  * Holiday films on TV after Thanksgiving on a school night
@@ -63,7 +63,20 @@ images:
 
 ## The Details
 
-Text Goes Here....
+Memories of Christmas during my childhood are .... interesting. I remember them vividly to be a certain way. Yet, I just found out that they are slightly.....off?
+
+I remember 
+
+1. the smell of a **fresh cut tree**
+2. making a [Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/) with needle, string, stale popcorn, and cranberries
+3. burning my little fingers on [glowing hot, multicolored light strings](https://a.co/d/gbF061r), and 
+4. _The Wizard of Oz_ coming on television at 8pm on a Tuesday night early in December.
+
+As an 8 yr. old boy, it seemed as if my parents were guiding us kids into an amazing holiday tradition passed down from one generation to the next - decorating the tree to the backdrop of Judy Garland, Toto, and the Yellow Brick Road. It movie starts out in B&W, so surely it was old. Old enough for my my twenty-something parents to have watched it on TVs in their childhood. 
+
+Except, I just learned that unless I was born in 1959, my recall of this happy occasion isn't quite right. From 1959-1962, _The Wizard of Oz_ aired on national television in December, but from 1964-1990 it aired on CBS **after the New Year**. It wasn't until 1991, when I was a teenager (13 yrs. old), that the film came to air during the holiday season. 
+
+My memeory isn't the greatest, but I don't think my 13 yr old self would be sentimental about sewing string through cranberries. But maybe so! Or maybe the tradition on decorating the tree year after year in my elementary school days were so profoundly warm, locing and enjoyable, that I inserted _The Wizard of Oz_ into it. *Why?* Becuase I really enjoy movies so I mashed two truths together to make a film on TV the perfect backdrop to early childhood memories? Who knows. But, what I do know is that I rememebr _the feeling_ of the holidays with my family having shared experiences. And so for that reason, I chose _The Wizard of Oz_ airing on national TV in November/December (from 1991, 1993 & 1994) as my favorite childhood Christmas movie (you can't take away my own memory - even if it's fabricated).
 
 ## Awards
 
