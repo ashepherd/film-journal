@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Favorite Classic - White Christmas (1954)
-permalink: /drafts/dec02/
 categories: [2023 XMAS Challenge]
 excerpt: Are the memories of our youth accurate?
 image: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
