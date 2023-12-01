@@ -67,16 +67,20 @@ Text Goes Here....
 
 ### Rewatchables Podcast 
 
-* **Most Rewatchable Scene**: [Munchkin Land](https://www.youtube.com/watch?v=Lu8GXopcwFE)
+* **Most Rewatchable Scene**: 
+[Munchkin Land](https://www.youtube.com/watch?v=Lu8GXopcwFE)
+* **Probably Unanswerable Questions**: 
+What type of wood was used in the construction of Dorothy's house for it to withstand a friggin' tornado?
+* **Most Cinematic Shot**: 
+[Flying Monkeys](https://youtu.be/SESI19h4wDo?si=tWwcJuluNIPocNJY)
   * Reminds me of the [flying hawkmen in Flash Gordon](https://youtu.be/UVcAFtQ-bAQ?si=fBKr1c9Qcr35Chh9), and
   * ["big birds" from Indiana Jones and the Temple of Doom](https://youtu.be/OphHU1W9umw?si=ech8Lgn9_6oNjAlX)
-* **Probably Unanswerable Questions**: What type of wood was used in the construction of Dorothy's house for it to withstand a friggin' tornado?
-* **Most Cinematic Shot**: [Flying Monkeys](https://youtu.be/SESI19h4wDo?si=tWwcJuluNIPocNJY)
-  * Reminds me of the [flying hawkmen in Flash Gordon](https://youtu.be/UVcAFtQ-bAQ?si=fBKr1c9Qcr35Chh9), and
-  * ["big birds" from Indiana Jones and the Temple of Doom](https://youtu.be/OphHU1W9umw?si=ech8Lgn9_6oNjAlX)
-* **What Piece of Memorabilia Would You Want From This Movie?**: A [Winkie (Monkey) Pike](https://www.youtube.com/watch?v=PZsAX8Dq838)
-* **Best Life Lesson**: When travelling the forest, befriend the locals?
-* **Best Needle Drop**: [Lollipop Guild](https://www.youtube.com/watch?v=XBsf8qsxs2M)
+* **What Piece of Memorabilia Would You Want From This Movie?**: 
+A [Winkie (Monkey) Pike](https://www.youtube.com/watch?v=PZsAX8Dq838)
+* **Best Life Lesson**: 
+When travelling the forest, befriend the locals?
+* **Best Needle Drop**: 
+[Lollipop Guild](https://www.youtube.com/watch?v=XBsf8qsxs2M)
 
 ## Credits
 
