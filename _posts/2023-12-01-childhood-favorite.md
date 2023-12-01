@@ -48,11 +48,11 @@ images:
 ---
 
 {% include image.html id="poster" %}
-{% include image.html id="dec01" style="max-width=168px;"%}{% include image.html id="lights" %}{% include image.html id="garland" %}{% include image.html id="tv" %}
+{% include image.html id="dec01" style="max-width: 168px"%}{% include image.html id="lights" style="max-width: 168px" %}{% include image.html id="garland" style="max-width: 168px" %}{% include image.html id="tv" style="max-width: 168px" %}
 
 ## The Gist
 
- * The family tradition of decorating the Christmas tree {% include image.html id="emerald-city" %}
+ * The family tradition of decorating the Christmas {% include image.html id="emerald-city" %} tree 
  * Holiday films on TV after Thanksgiving on a school night
  * The dangers of making a popcorn garland, and  burns from glowing hot, multi-colored xmas tree lights
 
