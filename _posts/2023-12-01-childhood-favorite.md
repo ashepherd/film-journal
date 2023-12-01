@@ -50,6 +50,8 @@ images:
 {% include image.html id="poster" %}
 {% include image.html id="dec01" style="max-width: 168px"%}{% include image.html id="lights" style="max-width: 168px" %}{% include image.html id="garland" style="max-width: 168px" %}{% include image.html id="tv" style="max-width: 168px" %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## The Gist
 
  * The family tradition of decorating the Christmas {% include image.html id="emerald-city" %} tree 
@@ -59,10 +61,6 @@ images:
 ## The Details
 
 Text Goes Here....
-
-## Trailer
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Awards
 
