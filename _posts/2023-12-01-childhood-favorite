@@ -1,157 +1,35 @@
 ---
 layout: post
-title:  [Prompt] - [Movie]
+title:  Childhood Favorite - The Wizard of Oz
 categories: [2023 XMAS Challenge]
 excerpt: Something witty
 image: [path-to-image]
 images:
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
+  - id: poster
+    path: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
+    url: https://www.imdb.com/title/tt0032138/
+    caption: The Wizard of Oz (1939)
     max-width: 125px
     display: inline
     border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
+  - id: lights
+    path: https://m.media-amazon.com/images/I/71DuaIG1kLL._AC_SX679_.jpg
+    url: https://a.co/d/92Xrei7
+    caption: Multi-colored christmas tree lights from the 70s
     max-width: 125px
     display: inline
     border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
+  - id: garland
+    path: https://hips.hearstapps.com/hmg-prod/images/how-to-make-popcorn-garland-1601912124.jpg?crop=0.752xw:1.00xh;0.0646xw,0&resize=1200:*
+    url: https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/
+    caption: A popcorn and cranberry garland
     max-width: 125px
     display: inline
     border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec08
-    path: xmas/dec08-weirdest.jpeg
-    caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec10
-    path: xmas/dec10-most-in-need-remake.jpeg
-    caption: Most in Need of Remake	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec11
-    path: xmas/dec11-most-underrated.jpeg
-    caption: Most Underrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
-    caption: Favorite Sequel
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
+  - id: tv
+    path: https://i0.wp.com/play.fallows.ca/wp/wp-content/uploads/sites/4/2020/02/trinitron.jpg?w=318&ssl=1
+    url: https://play.fallows.ca/wp/insights/terrific-trinitron-television-remember-them/
+    caption: Sony Trinitron from the 70s
     max-width: 125px
     display: inline
     border: true
@@ -170,8 +48,7 @@ Text Goes Here....
 
 ## Trailer
 
-Embed trailer
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Awards
 
 ### Rewatchables Podcast 
@@ -190,4 +67,7 @@ Best Needle Drop
 
 ## Credits
 
-* A special thank you to this blog post that inspired our challenge: [https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/](https://imamovienerd.wordpress.com/25-day-christmas-movie-challenge/)
+* [IMdb - The Wizard of Oz (1939)](https://www.imdb.com/title/tt0032138/)
+* [Wikipedia - **The Wizard of Oz** on television](https://en.wikipedia.org/wiki/The_Wizard_of_Oz_on_television)
+* [Amazon - 25FT Christmas Decorations Lights, C7 Vintage Christmas Lights, Multicolor Christmas Tree Lights](https://a.co/d/gbF061r)
+* [The Pioneer Woman - How to Make a Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/)
