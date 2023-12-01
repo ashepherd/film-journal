@@ -48,7 +48,7 @@ images:
 ---
 
 {% include image.html id="poster" %}
-{% include image.html id="dec01" %}{% include image.html id="lights" %}{% include image.html id="garland" %}{% include image.html id="tv" %}
+{% include image.html id="dec01" style="max-width=168px;"%}{% include image.html id="lights" %}{% include image.html id="garland" %}{% include image.html id="tv" %}
 
 ## The Gist
 
