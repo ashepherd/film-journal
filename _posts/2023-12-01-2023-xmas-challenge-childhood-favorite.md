@@ -47,7 +47,7 @@ images:
     border: true
 ---
 
-<div style="text-align: center">{{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}</div>
+<div style="text-align: center">{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}</div>
 
 ## The Trailer 
 
