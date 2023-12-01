@@ -19,14 +19,19 @@ images:
     border: true
   - id: general
     path: https://m.media-amazon.com/images/M/MV5BZjJlOTk3MGMtNThjNC00NTNiLTllZDMtYzEyZjYxNWJhNzMxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
+    display: inline
   - id: boy-girls
     path: https://m.media-amazon.com/images/M/MV5BZjk1NjI1MzktMTc3MS00MjNkLTg5MDQtMTk2MWNiYWQ1MTM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+    display: inline
   - id: vermont
     path: https://m.media-amazon.com/images/M/MV5BYTM4OTA4NGItZjA1OC00MTg4LWFhNmQtZTg2NjkxOTIyYjRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+    display: inline
   - id: performance
     path: https://m.media-amazon.com/images/M/MV5BNzY5ZWNlZDAtZjQzNC00ODIwLWI5YzktNmI2YjMwYWJkNjhlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+    display: inline
   - id: general-old
     path: https://m.media-amazon.com/images/M/MV5BNzlmYWZhYzktMjhhYS00MmVmLTgwYWItY2UwZjlkY2ZhMDIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
+    display: inline
 excerpt: Are the memories of our youth accurate?
 ---
 
