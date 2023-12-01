@@ -42,6 +42,7 @@ images:
   - id: emerald-city
     path: https://cdn.theasc.com/Wizard-of-Oz-Frame-21.jpeg
     caption: The Emerald City
+    max-width: 125px
     display: inline
     border: true
 ---
