@@ -53,7 +53,7 @@ google_analytics_ga4: G-LKD4SG8QPV
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://film.adamshepherd.net
+url: https://film.adamshepherd.net
 enforce_ssl: https://film.adamshepherd.net
 
 # If you're hosting your site at a Project repository on GitHub pages
