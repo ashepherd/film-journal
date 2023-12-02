@@ -185,8 +185,8 @@ There is something special about Christmas movies. {% include pullquote.html quo
 
 | Date              | Prompt               | My Pick | Hints              |
 | --------------------- | --------------------- | --------------------- | ---------------------|
-| Dec 1 | __Childhood Favorite__ | <a href="https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/"><img src="https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg" width="100px"/>The Wizard of Oz (1939)</a> | Pick a holiday movie from your childhood | 
-| Dec 2 | __Favorite Classic Christmas Movie__ | <a href="[https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/](https://film.adamshepherd.net/2023-xmas-challenge-favorite-classic/)"><img src="https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg" width="100px"/>White Christmas (1954)</a> | Pick an oldie, but goodie | 
+| Dec 1 | __Childhood Favorite__ | <a href="https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/"><img src="https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg" width="100px"/><br/>The Wizard of Oz (1939)</a> | Pick a holiday movie from your childhood | 
+| Dec 2 | __Favorite Classic Christmas Movie__ | <a href="https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/"><img src="https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg" width="100px"/><br/>White Christmas (1954)</a> | Pick an oldie, but goodie | 
 | Dec 3 | __Favorite Elf__ | | Pick a movie with your favorite elf |
 | Dec 4 | __I Always Forget is Christmas__ | |  Pick a movie that you forget is a Christmas movie |
 | Dec 5 | __Favorite Animated__ | |  Pick an animated holiday movie |
