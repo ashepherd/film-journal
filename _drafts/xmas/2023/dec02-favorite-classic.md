@@ -90,7 +90,7 @@ I <s>hated</s> hate movies about producing singing and dnacing acts. I came to W
 #### What Piece of Memorabilia Would You Want From This Movie?
 
 The Butcher's Costume
-{% include image.html id="butcher" style="max-height: 168px" %}
+{% include image.html id="butcher" style="max-width: 560px" %}
 
 
 #### The “Slow Ride” Award for Best Needle Drop
