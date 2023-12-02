@@ -12,8 +12,8 @@ images:
     border: true
   - id: poster
     path: https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg
-    url: https://www.imdb.com/title/tt0032138/
-    caption: The Wizard of Oz (1939)
+    url: https://www.imdb.com/title/tt0047673/
+    caption: White Christmas (1954)
     max-width: 125px
     display: inline
     border: true
@@ -104,7 +104,7 @@ The Butcher's Costume
 
 ## Credits
 
-* [IMDb - White Christmas (1954)](https://www.imdb.com/title/tt0032138/)
+* [IMDb - White Christmas (1954)](https://www.imdb.com/title/tt0047673/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
