@@ -40,8 +40,6 @@ images:
     path: https://m.media-amazon.com/images/M/MV5BNzUwMWI3MDctMjQzZC00NzAyLWI3MTUtOTg4NzQ0MjhhZjllXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
     display: inline
     caption: Pine Tree, Vermont
-
-excerpt: Are the memories of our youth accurate?
 ---
 
 <div style="text-align: center">
