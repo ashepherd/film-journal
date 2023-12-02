@@ -79,29 +79,28 @@ I <s>hated</s> hate movies about producing singing and dnacing acts. I came to W
 [Surprising the General](https://youtu.be/5JMmEeDXnfQ?si=ih5IPwYKL5QmHr5a&t=121)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JMmEeDXnfQ?si=Qg9MC4wYCXKmMEz0&amp;start=121" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-#### Probably Unanswerable Questions
-
-1. Can we imagine Danny Kaye and Bing Crosby as soldiers?
-2. Are these rmoantic relationships going to last?
-
+<p>&nbsp;</p>
 
 #### The "Den of Thieves Benihana" Award for Scene Stealing Location
 
 [Pine Tree, Vermont](https://westhillbb.com/blog/2014/12/dreaming-white-christmas/#:~:text=The%20holidays%20are%20not%20complete,Pine%20Tree%2C%20in%20late%20December.)
 {% include image.html id="vermont" style="max-width: 560px" %}
 
+<p>&nbsp;</p>
+
 #### What Piece of Memorabilia Would You Want From This Movie?
 
 The Butcher's Costume
 {% include image.html id="butcher" style="max-width: 560px" %}
 
+<p>&nbsp;</p>
 
 #### The “Slow Ride” Award for Best Needle Drop
 
 "Love, You Didn't Do Right By Me" -Rosemary Clooney
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKA0jcN8Mew?si=wxEQFrZIeAzu-Ibb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p>&nbsp;</p>
 
 ## Credits
 
