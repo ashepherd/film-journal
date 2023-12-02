@@ -55,7 +55,7 @@ images:
 
 ## The Gist
 
-I <s>hated</s> hate movies about producing singing and dancing acts. I came to White Christmas only recently, and.....I still hate movies about singing and dancing. But this one has heart. A down-on-his-luck Army General is loved on by his former soldiers giving their time and talents to show him how much is loved and appreciated. I watch this movie every year for 
+I <s>hated</s> hate movies about producing singing and dancing acts. I came to White Christmas only recently, and.....I still hate movies about singing and dancing. But this one has heart. A down-on-his-luck Army General is loved on by his former soldiers giving their time and talents to show him how much is appreciated. I watch this movie every year for 
 
 1. the General, and
 2. to hear Rosemary Clooney sing "<a href="#the-slow-ride-award-for-best-needle-drop">Love, You Didn't Do Right By Me</a>".
