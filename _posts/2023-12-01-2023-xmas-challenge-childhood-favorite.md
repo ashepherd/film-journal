@@ -51,7 +51,7 @@ images:
   <p>{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}</p>
 </div>
 
-<span style="text-aign:center">**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)**</span>
+<div style="text-aign:center">**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)**</div>
 
 
 ## The Trailer 
@@ -137,4 +137,4 @@ When travelling the forest, befriend the locals?
 * [The Pioneer Woman - How to Make a Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/)
 
 
-**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)https://film.adamshepherd.net/xmas-movie-challenge/**
+<div style="text-aign:center">**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)**</div>
