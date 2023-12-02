@@ -155,6 +155,20 @@ images:
     max-width: 125px
     display: inline
     border: true
+  - id: poster-dec01
+    path: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
+    url: /2023-xmas-challenge-childhood-favorite/
+    caption: The Wizard of Oz (1939)
+    max-width: 125px
+    display: inline
+    border: true
+  - id: poster-dec02
+    path: https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg
+    url: /2023-xmas-challenge-favorite-classic/
+    caption: White Christmas (1954)
+    max-width: 125px
+    display: inline
+    border: true
 ---
 ![](/images/xmas/challenge.jpeg)
 
@@ -171,8 +185,8 @@ There is something special about Christmas movies. {% include pullquote.html quo
 
 | Date              | Prompt               | My Pick | Hints              |
 | --------------------- | --------------------- | --------------------- | ---------------------|
-| Dec 1 | __Childhood Favorite__ | [The Wizard of Oz (1939)](https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/?utm_source=website&utm_medium=internal&utm_campaign=2023-xmas-movie-challenge&utm_id=2023-xmas-movie-challenge&utm_content=childhood-favorite)| Pick a holiday movie from your childhood | 
-| Dec 2 | __Favorite Classic Christmas Movie__ | [White Christmas (1954)](https://film.adamshepherd.net/2023-xmas-challenge-favorite-classic/?utm_source=website&utm_medium=internal&utm_campaign=2023-xmas-movie-challenge&utm_id=2023-xmas-movie-challenge&utm_content=favorite-classic) | Pick an oldie, but goodie | 
+| Dec 1 | __Childhood Favorite__ | {% include image.html id="poster-dec01" %} [The Wizard of Oz (1939)](https://film.adamshepherd.net/2023-xmas-challenge-childhood-favorite/)| Pick a holiday movie from your childhood | 
+| Dec 2 | __Favorite Classic Christmas Movie__ | {% include image.html id="poster-dec02" %} [White Christmas (1954)](https://film.adamshepherd.net/2023-xmas-challenge-favorite-classic/) | Pick an oldie, but goodie | 
 | Dec 3 | __Favorite Elf__ | | Pick a movie with your favorite elf |
 | Dec 4 | __I Always Forget is Christmas__ | |  Pick a movie that you forget is a Christmas movie |
 | Dec 5 | __Favorite Animated__ | |  Pick an animated holiday movie |
