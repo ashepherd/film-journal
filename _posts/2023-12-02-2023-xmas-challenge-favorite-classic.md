@@ -47,7 +47,9 @@ images:
   <p>{% include image.html id="poster" %}{% include image.html id="dec02" style="max-width: 168px"%}</p>
 </div>
 
-<div style="text-aign:center">#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)</div>
+<div style="text-aign:center">
+  #[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)
+</div>
 
 
 ## The Trailer 
