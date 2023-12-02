@@ -36,7 +36,7 @@ images:
     path: https://m.media-amazon.com/images/M/MV5BMDEyMDZhMTQtNjhiNi00ZTZlLWEwNzItMDVhODYyNzBkMTQxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
     display: inline
     caption: The Butcher's Costume
-  - id: vermont
+  - id: lodge
     path: https://m.media-amazon.com/images/M/MV5BNzUwMWI3MDctMjQzZC00NzAyLWI3MTUtOTg4NzQ0MjhhZjllXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
     display: inline
     caption: Pine Tree, Vermont
@@ -84,7 +84,7 @@ I <s>hated</s> hate movies about producing singing and dnacing acts. I came to W
 #### The "Den of Thieves Benihana" Award for Scene Stealing Location
 
 [Pine Tree, Vermont](https://westhillbb.com/blog/2014/12/dreaming-white-christmas/#:~:text=The%20holidays%20are%20not%20complete,Pine%20Tree%2C%20in%20late%20December.)
-{% include image.html id="vermont" style="max-width: 560px" %}
+{% include image.html id="lodge" style="max-width: 560px" %}
 
 <p>&nbsp;</p>
 
