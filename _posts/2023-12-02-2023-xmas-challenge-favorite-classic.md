@@ -47,7 +47,7 @@ images:
   <p>{% include image.html id="poster" %}{% include image.html id="dec02" style="max-width: 168px"%}</p>
 </div>
 
-{% include hashtag.html url="{{ site.baseurl }}/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
+{% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
 
 ## The Trailer 
 
@@ -107,4 +107,4 @@ The Butcher's Costume
 * [IMDb - White Christmas (1954)](https://www.imdb.com/title/tt0032138/)
 
 
-{% include hashtag.html url="{{ site.baseurl }}/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
+{% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
