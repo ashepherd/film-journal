@@ -53,7 +53,10 @@ excerpt: Are the memories of our youth accurate?
 
 ## The Gist
 
-I <s>hated</s> hate movies about producing singing and dnacing acts. I came to White Christmas only recently, and.....I still hate movies about singing and dancing. But this one has heart. A down on his luck General from WWI is loved on by his former soldiers giving their time and talents to show him how much is loved and appreciated. I watch this movie every year for the General, and to hear Rosemary Clooney sing "Love, You Didn't Do Right By Me".
+I <s>hated</s> hate movies about producing singing and dnacing acts. I came to White Christmas only recently, and.....I still hate movies about singing and dancing. But this one has heart. A down-on-his-luck Army General is loved on by his former soldiers giving their time and talents to show him how much is loved and appreciated. I watch this movie every year for 
+
+1. the General, and
+2. to hear Rosemary Clooney sing "<a href="#the-slow-ride-award-for-best-needle-drop">Love, You Didn't Do Right By Me</a>".
 
 <div style="text-align: center">
   {% include image.html id="general" style="max-height: 168px" %}
@@ -63,15 +66,15 @@ I <s>hated</s> hate movies about producing singing and dnacing acts. I came to W
   {% include image.html id="general-old" style="max-height: 168px" %}
 </div>
 
-...
 
 ## Awards
 
-### _...from the Rewatchables Podcast_
+### _...from [The Rewatchables Podcast](https://www.theringer.com/the-rewatchables)_
 
 #### Most Rewatchable Scene
 [Surprising the General](https://youtu.be/5JMmEeDXnfQ?si=ih5IPwYKL5QmHr5a&t=121)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JMmEeDXnfQ?si=ih5IPwYKL5QmHr5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 #### Probably Unanswerable Questions
 
@@ -83,15 +86,18 @@ I <s>hated</s> hate movies about producing singing and dnacing acts. I came to W
 
 [Pine Tree, Vermont](https://westhillbb.com/blog/2014/12/dreaming-white-christmas/#:~:text=The%20holidays%20are%20not%20complete,Pine%20Tree%2C%20in%20late%20December.)
 
+
 #### What Piece of Memorabilia Would You Want From This Movie?
 
 The Butcher's Costume
-{% include image.html id="general-old" style="max-height: 168px" %}
+{% include image.html id="butcher" style="max-height: 168px" %}
+
 
 #### The “Slow Ride” Award for Best Needle Drop
 
 "Love, You Didn't Do Right By Me" -Rosemary Clooney
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKA0jcN8Mew?si=wxEQFrZIeAzu-Ibb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Credits
 
