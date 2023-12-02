@@ -3,6 +3,7 @@ layout: post
 title:  Favorite Classic - White Christmas (1954)
 categories: [2023 XMAS Challenge]
 image: https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg
+excerpt: <img style="max-width: 125px" src="https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg">
 images:
   - id: dec02
     path: xmas/dec02-favorite-classic.jpeg
