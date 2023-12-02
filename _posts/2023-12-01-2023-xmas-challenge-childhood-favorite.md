@@ -52,6 +52,9 @@ images:
   <p>{% include image.html id="poster" %}{% include image.html id="dec01" style="max-width: 168px"%}</p>
 </div>
 
+**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)https://film.adamshepherd.net/xmas-movie-challenge/**
+
+
 ## The Trailer 
 
 <div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FfpF8UUVTeM?si=SREHaaWv4NV2oYkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
@@ -83,22 +86,49 @@ My memeory isn't the greatest, but I don't think my 13 yr old self would be sent
 
 ## Awards
 
-### Rewatchables Podcast 
+### _...from [The Rewatchables Podcast](https://www.theringer.com/the-rewatchables)_
 
-* **Most Rewatchable Scene**: 
+#### Most Rewatchable Scene
+
 [Munchkin Land](https://www.youtube.com/watch?v=Lu8GXopcwFE)
-* **Probably Unanswerable Questions**: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lu8GXopcwFE?si=cbG4Zvtr9McYxEhZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
+
+#### Probably Unanswerable Questions
+
 What type of nails were used in the construction of Dorothy's house for it to withstand a friggin' tornado?
-* **Most Cinematic Shot**: 
+
+<p>&nbsp;</p>
+
+#### The "Great Shot Gordo" Award for Most Cinematic Shot
+
 [Flying Monkeys](https://youtu.be/SESI19h4wDo?si=tWwcJuluNIPocNJY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SESI19h4wDo?si=HdsZYRF4ePuNNZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
   * Reminds me of the [flying hawkmen in Flash Gordon](https://youtu.be/UVcAFtQ-bAQ?si=fBKr1c9Qcr35Chh9), and
   * ["big birds" from Indiana Jones and the Temple of Doom](https://youtu.be/OphHU1W9umw?si=ech8Lgn9_6oNjAlX)
-* **What Piece of Memorabilia Would You Want From This Movie?**: 
+
+<p>&nbsp;</p>
+
+#### What Piece of Memorabilia Would You Want From This Movie?
+
 A [Winkie (Monkey) Pike](https://www.youtube.com/watch?v=PZsAX8Dq838)
-* **Best Life Lesson**: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PZsAX8Dq838?si=ZWlbBB0JpOoKS7T3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>&nbsp;</p>
+
+#### The Coach Finstock Award for Best Life Lesson
+
 When travelling the forest, befriend the locals?
-* **Best Needle Drop**: 
+
+<p>&nbsp;</p>
+
+#### The “Slow Ride” Award for Best Needle Drop
+
 [Lollipop Guild](https://www.youtube.com/watch?v=XBsf8qsxs2M)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBsf8qsxs2M?si=qj0cEMGYExG9kWJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>&nbsp;</p>
 
 ## Credits
 
@@ -108,4 +138,4 @@ When travelling the forest, befriend the locals?
 * [The Pioneer Woman - How to Make a Popcorn Garland](https://www.thepioneerwoman.com/home-lifestyle/crafts-diy/a34236544/how-to-make-popcorn-garland/)
 
 
-**#25daychristmasmoviechallenge**
+**#[25daychristmasmoviechallenge](https://film.adamshepherd.net/xmas-movie-challenge/)https://film.adamshepherd.net/xmas-movie-challenge/**
