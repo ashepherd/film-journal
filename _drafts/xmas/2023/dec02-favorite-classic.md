@@ -32,6 +32,11 @@ images:
   - id: general-old
     path: https://m.media-amazon.com/images/M/MV5BNzlmYWZhYzktMjhhYS00MmVmLTgwYWItY2UwZjlkY2ZhMDIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920_.jpg
     display: inline
+  - id: butcher
+    path: https://m.media-amazon.com/images/M/MV5BMDEyMDZhMTQtNjhiNi00ZTZlLWEwNzItMDVhODYyNzBkMTQxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1216_.jpg
+    display: inline
+    caption: The Butcher's Costume
+
 excerpt: Are the memories of our youth accurate?
 ---
 
@@ -48,11 +53,7 @@ excerpt: Are the memories of our youth accurate?
 
 ## The Gist
 
- * 1...
- * 2...
- * 3...
-
-## The Details
+I <s>hated</s> hate movies about producing singing and dnacing acts. I came to White Christmas only recently, and.....I still hate movies about singing and dancing. But this one has heart. A down on his luck General from WWI is loved on by his former soldiers giving their time and talents to show him how much is loved and appreciated. I watch this movie every year for the General, and to hear Rosemary Clooney sing "Love, You Didn't Do Right By Me".
 
 <div style="text-align: center">
   {% include image.html id="general" style="max-height: 168px" %}
@@ -68,55 +69,29 @@ excerpt: Are the memories of our youth accurate?
 
 ### _...from the Rewatchables Podcast_
 
-* Most Rewatchable Scene
-* The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
-* What's Aged the Best?
-* What's Aged the Worst?
-* The Dion Waiters Award for Best Heat Check Performance
-* The Joey Pants "That Guy" Award
-* The "Ruffalo/Hanna/Rubinek/Partridge" Overacting Award
-* Casting What Ifs
-* Half-Assed Internet Research
-* Probably Unanswerable Questions
-* Sequel, Prequel, Limited Series, or All Black Remake (updated)
-* Apex Mountain
-* Who Won the Movie?
-* Picking Nits
-* Recasting Couch (retired sort of since the answer's always Sydney Sweeney)
-* Is this Movie Better with Danny Trejo, Steve Buscemi, or Michael K. Williams? (retired)
-* The "Den of Thieves Benihana" Award for Scene Stealing Location
-* The "Great Shot Gordo" Award for Most Cinematic Shot
-* The "Big Kahuna Burger" Award for Best Use of Food and Drink
-* The "Butch's Girlfriend" Award for the Weakest Link in the Film
-* The "Ron Burgundy Flute" Award for the Best Time for a Pee Break
-* Is There a Better Title for this Movie?
-* The Steven A. Smith Hottest Take Award
-* The Teddy KGB Award for the Actor in a Completely Different Movie
-* Hall of Fame Plaque
-* Just One Oscar
-* Best Double Feature
-* Best Race Horse Name from this Movie
-* What Piece of Memorabilia Would You Want From This Movie?
-* The Coach Finstock Award for Best Life Lesson
-* The “Slow Ride” Award for Best Needle Drop
+#### Most Rewatchable Scene
+[Surprising the General](https://youtu.be/5JMmEeDXnfQ?si=ih5IPwYKL5QmHr5a&t=121)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5JMmEeDXnfQ?si=ih5IPwYKL5QmHr5a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Probably Unanswerable Questions
+
+1. Can we imagine Danny Kaye and Bing Crosby as soldiers?
+2. Are these rmoantic relationships going to last?
 
 
-* **Most Rewatchable Scene**: 
-[Munchkin Land](https://www.youtube.com/watch?v=Lu8GXopcwFE)
-* **Probably Unanswerable Questions**: 
-  * Can we imagine Danny Kaye and Bing Crosby as soldiers?
-  * Are these relationships going to last?
-  * 
-* **Most Cinematic Shot**: 
-[Flying Monkeys](https://youtu.be/SESI19h4wDo?si=tWwcJuluNIPocNJY)
-  * Reminds me of the [flying hawkmen in Flash Gordon](https://youtu.be/UVcAFtQ-bAQ?si=fBKr1c9Qcr35Chh9), and
-  * ["big birds" from Indiana Jones and the Temple of Doom](https://youtu.be/OphHU1W9umw?si=ech8Lgn9_6oNjAlX)
-* **What Piece of Memorabilia Would You Want From This Movie?**: 
-A [Winkie (Monkey) Pike](https://www.youtube.com/watch?v=PZsAX8Dq838)
-* **Best Life Lesson**: 
-When travelling the forest, befriend the locals?
-* **Best Needle Drop**: 
-[Lollipop Guild](https://www.youtube.com/watch?v=XBsf8qsxs2M)
+#### The "Den of Thieves Benihana" Award for Scene Stealing Location
+
+[Pine Tree, Vermont](https://westhillbb.com/blog/2014/12/dreaming-white-christmas/#:~:text=The%20holidays%20are%20not%20complete,Pine%20Tree%2C%20in%20late%20December.)
+
+#### What Piece of Memorabilia Would You Want From This Movie?
+
+The Butcher's Costume
+{% include image.html id="general-old" style="max-height: 168px" %}
+
+#### The “Slow Ride” Award for Best Needle Drop
+
+"Love, You Didn't Do Right By Me" -Rosemary Clooney
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tKA0jcN8Mew?si=wxEQFrZIeAzu-Ibb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Credits
 
