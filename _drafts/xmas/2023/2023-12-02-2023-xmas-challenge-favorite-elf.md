@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Favorite Elf - Hermey the Dentist, Rudolph the Red-Nosed Reindeer 
+title:  Favorite Elf - Hermey the Dentist, Rudolph the Red-Nosed Reindeer (1964)
 categories: [2023 XMAS Challenge]
 excerpt: <img src="https://m.media-amazon.com/images/M/MV5BYjdjZjkyYjUtOWJiZC00ZTE2LTk4MDktZjliOTk5ZDk5ZTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BYjdjZjkyYjUtOWJiZC00ZTE2LTk4MDktZjliOTk5ZDk5ZTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg
@@ -19,13 +19,13 @@ images:
     display: inline
     border: true
   - id: hermey
-    path: https://static.wikia.nocookie.net/christmasspecials/images/0/09/Hermey.jpg/revision/latest?cb=20181201063135
+    path: xmas/2023/Hermey.jpg
     display: inline
   - id: rudolph
-    path: https://static.wikia.nocookie.net/christmasspecials/images/3/37/Rudolph_and_Hermey_in_a_snowstorm.jpg/revision/latest?cb=20161021233948
+    path: xmas/2023/Rudolph_and_Hermey_in_a_snowstorm.jpg
     display: inline
   - id: teeth
-    path: https://static.wikia.nocookie.net/christmasspecials/images/2/26/Rudolph-teeth.jpg/revision/latest?cb=20211215052756
+    path: xmas/2023/Rudolph-teeth.jpg
     url: https://youtu.be/Ui5W6AStk1s?si=6BqQ_Rdwgym_ScqR
     display: inline
   - id: ornament
@@ -43,7 +43,7 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lZfM8-w2p3w?si=hnrpOCOfundLys6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## The Gist
