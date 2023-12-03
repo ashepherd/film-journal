@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Favorite Elf - Hermey the Dentist, Rudolph the Red-Nosed Reindeer 
+title:  Prompt - Movie
 categories: [2023 XMAS Challenge]
 excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
 image: url-to-poster-img.jpg
