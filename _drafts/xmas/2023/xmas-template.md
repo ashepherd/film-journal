@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Favorite Elf - Hermey the Dentist, Rudolph the Red-Nosed Reindeer 
 categories: [2023 XMAS Challenge]
-excerpt: Something witty
-image: https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg
+excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
+image: url-to-poster-img.jpg
 images:
   - id: poster
-    path: https://i.etsystatic.com/31354435/r/il/50a3b0/5356078433/il_570xN.5356078433_ml1j.jpg
-    url: https://www.imdb.com/title/tt0032138/
-    caption: The Wizard of Oz (1939)
+    path: url-to-poster-img.jpg
+    url: https://www.imdb.com/title/xxxxx/
+    caption: Movie Title
     max-width: 125px
     display: inline
     border: true
@@ -166,8 +166,10 @@ images:
 
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec02" style="max-width: 168px"%}</p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
 </div>
+
+{% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
 
 ## The Trailer 
 
@@ -177,15 +179,14 @@ images:
 
 ## The Gist
 
+The text
+
 <div style="text-align: center">
   {% include image.html id="poster" style="max-width: 168px" %}
   {% include image.html id="poster" style="max-width: 168px" %}
   {% include image.html id="poster" style="max-height: 168px" %}
 </div>
 
- * 1...
- * 2...
- * 3...
 
 ## The Details
 
@@ -195,7 +196,32 @@ images:
 
 ### _...from the Rewatchables Podcast_
 
-* Most Rewatchable Scene
+#### Most Rewatchable Scene
+
+[youtube embed]
+
+<p>&nbsp;</p>
+
+#### The "Den of Thieves Benihana" Award for Scene Stealing Location
+
+List it
+
+<p>&nbsp;</p>
+
+#### What Piece of Memorabilia Would You Want From This Movie?
+
+The Butcher's Costume
+{% include image.html id="butcher" style="max-width: 560px" %}
+
+<p>&nbsp;</p>
+
+#### The “Slow Ride” Award for Best Needle Drop
+
+[youtube embed]
+
+<p>&nbsp;</p>
+
+
 * The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
 * What's Aged the Best?
 * What's Aged the Worst?
@@ -227,26 +253,11 @@ images:
 * The Coach Finstock Award for Best Life Lesson
 * The “Slow Ride” Award for Best Needle Drop
 
-* **Most Rewatchable Scene**: 
-[Munchkin Land](https://www.youtube.com/watch?v=Lu8GXopcwFE)
-* **Probably Unanswerable Questions**: 
-  * Can we imagine Danny Kaye and Bing Crosby as soldiers?
-  * Are these relationships going to last?
-  * 
-* **Most Cinematic Shot**: 
-[Flying Monkeys](https://youtu.be/SESI19h4wDo?si=tWwcJuluNIPocNJY)
-  * Reminds me of the [flying hawkmen in Flash Gordon](https://youtu.be/UVcAFtQ-bAQ?si=fBKr1c9Qcr35Chh9), and
-  * ["big birds" from Indiana Jones and the Temple of Doom](https://youtu.be/OphHU1W9umw?si=ech8Lgn9_6oNjAlX)
-* **What Piece of Memorabilia Would You Want From This Movie?**: 
-A [Winkie (Monkey) Pike](https://www.youtube.com/watch?v=PZsAX8Dq838)
-* **Best Life Lesson**: 
-When travelling the forest, befriend the locals?
-* **Best Needle Drop**: 
-[Lollipop Guild](https://www.youtube.com/watch?v=XBsf8qsxs2M)
-
 ## Credits
 
-* [IMDb - White Christmas (1954)](https://www.imdb.com/title/tt0032138/)
+* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
 
 
-**#25daychristmasmoviechallenge**
+{% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
+
+<p>&nbsp;</p>
