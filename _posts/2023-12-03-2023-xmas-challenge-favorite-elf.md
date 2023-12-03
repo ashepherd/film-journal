@@ -48,7 +48,7 @@ images:
 
 ## The Gist
 
-My favorite elf of all time is the independent misfit - Hermey the Dentist. He's not your typical elf becuase he HATES to make toys. He wants to be a dentist. Despire all the social pressure to conform and live up to the expectation, Hermey is courageous and proud of his differences. He owns his identity as a misfit, and for that, he's my hero :)
+My favorite elf of all time is the independent misfit - Hermey the Dentist. He's not your typical elf because he HATES to make toys. He wants to be a dentist. Despite all the social pressure to conform and live up to the expectation [of slave toymaker?!], Hermey is courageous and proud of his differences. He owns his identity as a misfit, and for that, he's my hero :)
 
 <div style="text-align: center">
   {% include image.html id="hermey" style="max-width: 168px" %}
