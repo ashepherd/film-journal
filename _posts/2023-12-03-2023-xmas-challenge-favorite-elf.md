@@ -70,10 +70,10 @@ My favorite elf of all time is the independent misfit - Hermey the Dentist. He's
 #### What Piece of Memorabilia Would You Want From This Movie?
 
 Hermey's Pliers
+{% include image.html id="teeth" style="max-width: 560px" %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui5W6AStk1s?si=hDrcNIRG9xsjvdGk&amp;start=98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{% include image.html id="teeth" style="max-width: 560px" %}
 
 <p>&nbsp;</p>
 
