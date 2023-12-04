@@ -18,17 +18,17 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: watching-tv
-    path: https://m.media-amazon.com/images/M/MV5BMGExYjM3YzUtMGM3My00N2Y5LWJhYTgtYzdiYTk3Y2Q4ZDcyXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_FMjpg_UX1919_.jpg
+  - id: past
+    path: xmas/2023/rocky-past.png
     caption: Watching A Christmas Carol
-    max-width: 125px
     display: inline
     border: true
-  - id: paulie
-    path: https://www.thatmomentin.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-16-at-7.00.15-PM-650x414.png
-  - id: adrian
-    path: https://m.media-amazon.com/images/M/MV5BZjA1NjM0YjUtZDU2MC00ZmE2LWFiZWItYTQwMjc4MzEyMzJjXkEyXkFqcGdeQXVyNDIzNDExOQ@@._V1_FMjpg_UX925_.jpg
-    
+  - id: present
+    path: xmas/2023/rocky-present.png
+    display: inline
+  - id: future
+    path: xmas/2023/rocky-future.png
+    display: inline
 ---
 
 <div style="text-align: center">
@@ -46,25 +46,26 @@ images:
 
 ## The Gist
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B_AN4j6ko3k?si=mWJDgaLxmgJrhhb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* “women weaken legs.” - Mickey but it's quite the opposite. the 
-* Paulie gets drunk on XMAS eve - He's Scrooge, sour at burgeoning love
-* Paulie w. Wreath - Advent and Christmas wreaths are constructed of evergreens to represent everlasting life. He wears it like a burdon
-* What does XMAS mean - Christmas is a celebration, a time for giving and not simply a day we exchange gifts. The spirit of Christmas is in the 'togetherness', it's in the thought to which you put into thinking about others, it's a selfless time, where we forgive, take stock of what's important and become 'better' versions of ourselves.
-
-<div style="text-align: center">
-  {% include image.html id="watching-tv" style="max-width: 168px" %}
-  {% include image.html id="paulie" style="max-width: 168px" %}
-  {% include image.html id="adrian" style="max-height: 168px" %}
-</div>
-
+* On Christmas eve, Rocky and Adrian are watching A Christmas Carol on TV;
+* The Dickens classic plays out between Rocky, Adrian and Paulie to juxtapose these characters;
+* Paulie drunk on XMAS eve - he's our Ebenezer Scrooge;
+* Ghost of Christmas Past - the photo of Paulie himself dressed in his Navy outfit
+* Ghost of Christmas Present - Adrian, his current, and soon to be immediately former, roommate
+* Ghost of Christmas Yet to Come - Rocky, who confronts Paulie with .... silence
 
 ## The Details
 
-...
+While not a Christmas movie, Rocky has an important Christmas scene that furthers the story and develops the characters. My theory is that the scene on Christmas Eve where Rocky and Adrian are interrupted by Paulie while watching 'A Christmas Carol' is an homage to this Dicken's classic. The structure of 'A Christmas Carol' is used to juxtapose Paulie and Rocky - both down-on-their-luck but with different attitudes toward life challenges. Paulie is then greeted by the Ghosts of Christmas Past, Present and Christmas Yet to Come -  showing the us who Rocky *could've* been had he not been forgiving of both himself and the others who have overlooked him (Micky). In Rocky's persona, we are confronted with the Christmas spirit encouraging us all to soften our hearts just a bit to make a meaningful change.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_AN4j6ko3k?si=mWJDgaLxmgJrhhb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Paulie is adorned with a Christmas wreath on his arm, and he wears it like a burdon. He'll be confronted by the ghosts, and unlike Scrooge, he'll deny what he sees. Though his words are meant to attack Rocky and Adrian, he is ultimately showing us how he feels about himself.
+{% include image.html id="past" style="max-width: 168px" %}
+**First**, Paulie is visited by the memory of his former self in the Navy (the Past). Blaming Adrian for his current state, saying "I didn't get married because of you. You can't live by yourself." He smashes the table of the picture
+{% include image.html id="present" style="max-width: 168px" %}
+**Second**, Paulie is confronted by his roommate, Adrian (the Present). He tries to shame her by calling her "busted".
+{% include image.html id="future" style="max-height: 168px" %}
+**Finally**, Paulie is confonted by the silent Rocky (the Future) staring into the eyes of what Paulie could be if he's just shift his attitude. (Remember, the ghost of Christmas Yet to Come never speaks)
 
 ## Credits
 
