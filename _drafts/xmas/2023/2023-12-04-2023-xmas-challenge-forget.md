@@ -32,7 +32,7 @@ images:
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#credits">Credits</a></p>
   <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
 </div>
 
@@ -60,11 +60,11 @@ While not a Christmas movie, Rocky has an important Christmas scene that further
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_AN4j6ko3k?si=mWJDgaLxmgJrhhb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Paulie is adorned with a Christmas wreath on his arm, and he wears it like a burdon. He'll be confronted by the ghosts, and unlike Scrooge, he'll deny what he sees. Though his words are meant to attack Rocky and Adrian, he is ultimately showing us how he feels about himself.
-{% include image.html id="past" style="max-width: 168px" %}
+{% include image.html id="past" style="max-width: 560px" %}
 **First**, Paulie is visited by the memory of his former self in the Navy (the Past). Blaming Adrian for his current state, saying "I didn't get married because of you. You can't live by yourself." He smashes the table of the picture
-{% include image.html id="present" style="max-width: 168px" %}
+{% include image.html id="present" style="max-width: 560px" %}
 **Second**, Paulie is confronted by his roommate, Adrian (the Present). He tries to shame her by calling her "busted".
-{% include image.html id="future" style="max-height: 168px" %}
+{% include image.html id="future" style="max-height: 560px" %}
 **Finally**, Paulie is confonted by the silent Rocky (the Future) staring into the eyes of what Paulie could be if he's just shift his attitude. (Remember, the ghost of Christmas Yet to Come never speaks)
 
 ## Credits
