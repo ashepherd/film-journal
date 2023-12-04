@@ -65,7 +65,7 @@ Paulie is adorned with a Christmas wreath on his arm, and he wears it like a bur
 {% include image.html id="present" style="max-width: 560px" %}
 **Second**, Paulie is confronted by his roommate, Adrian (the Present). He tries to shame her by calling her "busted".
 {% include image.html id="future" style="max-height: 560px" %}
-**Finally**, Paulie is confonted by the silent Rocky (the Future) staring into the eyes of what Paulie could be if he's just shift his attitude. (Remember, the ghost of Christmas Yet to Come never speaks)
+**Finally**, Paulie is confonted by the silent Rocky (the Future) staring into the eyes of what Paulie could be if he's just shift his attitude. (Remember, the Ghost of Christmas Yet to Come never speaks)
 
 ## Credits
 
