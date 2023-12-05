@@ -9,7 +9,7 @@ images:
     path: https://m.media-amazon.com/images/M/MV5BMTQ1NDQxNTcxN15BMl5BanBnXkFtZTgwNzY1Njc1MzE@._V1_FMjpg_UX351_.jpg
     caption: A Charlie Brown Christmas (1965)
     url: https://www.imdb.com/title/tt0059026/
-    max-width: 125px
+    max-height: 168px
     display: inline
     border: true
   - id: he-man
