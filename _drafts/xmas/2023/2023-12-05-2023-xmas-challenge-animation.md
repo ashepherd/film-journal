@@ -32,6 +32,12 @@ images:
   - id: charlie-brown
     path: https://m.media-amazon.com/images/M/MV5BMjIzNzU4MTMyMF5BMl5BanBnXkFtZTcwMzYxMzcxNA@@._V1_FMjpg_UX640_.jpg
     max-width: 125px
+  - id: dec05
+    path: xmas/dec05-favorite-animated.jpeg
+    caption: Favorite Animated
+    max-width: 125px
+    display: inline
+    border: true
 ---
 
 <div style="text-align: center">
