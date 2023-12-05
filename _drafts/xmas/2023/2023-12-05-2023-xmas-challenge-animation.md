@@ -51,8 +51,7 @@ images:
 
 {% include pullquote.html quote="Of all the Charlie Browns in the world, you're the Charlie Brownest! - Linus" %}
 
-<div style="text-align: center">
-  {% include image.html id="he-man" style="max-width: 168px; float: left" %} 
+  {% include image.html id="he-man" style="max-width: 200px;float: left;padding: 10px;" %} 
   Yesterday, I snagged a copy of He-Man and She-Ra: A Christmas Special expecting it was going to be my pick for favorite animated classic - but, it was TERRIBLE. I couldn't past 5min of it. I guess this points to the fact that I don't really have a favorite animated movie. 
 
   
@@ -60,14 +59,13 @@ images:
   When I thought about it, I remembered enjoying How the Grinch Stole Christmas!, but when I watched it, it seemed off in some way? I remembered the Grinch been drawn as a darker green, not this fuzzy lime I saw on the DVD . It just didn't feel right.
 
 <div style="clear: both">
-  {% include image.html id="grinch-green" style="max-height: 300px" %}
-  {% include image.html id="grinch-lime" style="max-height: 300px" %}
+  {% include image.html id="grinch-green" style="max-height: 250px" %}
+  {% include image.html id="grinch-lime" style="max-height: 250px" %}
 </div>
 
   I was saving Charlie Brown Christmas for another category, but I'm gonna use it here. I put in on just before writing this post, and it took 3 seconds of "Christmas Time Is Here" as the camera pans over the snowy landscape to make it feel like the right choice - for me. 
   
   {% include image.html id="charlie-brown" style="max-height: 300px" %}
-</div>
 
 
 ## Credits
