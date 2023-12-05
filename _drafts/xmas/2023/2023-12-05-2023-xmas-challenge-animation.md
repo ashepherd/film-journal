@@ -12,32 +12,6 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: he-man
-    path: https://m.media-amazon.com/images/M/MV5BMjEyMDcxODIyMV5BMl5BanBnXkFtZTcwOTkxODMzMQ@@._V1_FMjpg_UX376_.jpg
-    caption: He-Man and She-Ra Christmas Special (1985)
-    display: inline
-  - id: grinch-green
-    path: https://m.media-amazon.com/images/M/MV5BMjE1OTQ2OTM2Nl5BMl5BanBnXkFtZTcwMzA4MjAyMg@@._V1_FMjpg_UX480_.jpg
-    caption: How I remember the Grinch looking
-    display: inline
-  - id: grinch-green
-    path: https://m.media-amazon.com/images/M/MV5BOGQ4OWY4YWMtMGU2Mi00N2RhLTkxOTQtMTgyOGQzZmU2ZDYwXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_FMjpg_UX1488_.jpg
-    caption: How the Grinch looked yesterday
-    display: inline
-  - id: poster
-    path: https://m.media-amazon.com/images/M/MV5BMTQ1NDQxNTcxN15BMl5BanBnXkFtZTgwNzY1Njc1MzE@._V1_FMjpg_UX351_.jpg
-    caption: A Charlie Brown Christmas (1965)
-    url: https://www.imdb.com/title/tt0059026/
-    max-width: 125px
-  - id: charlie-brown
-    path: https://m.media-amazon.com/images/M/MV5BMjIzNzU4MTMyMF5BMl5BanBnXkFtZTcwMzYxMzcxNA@@._V1_FMjpg_UX640_.jpg
-    max-width: 125px
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
 ---
 
 <div style="text-align: center">
