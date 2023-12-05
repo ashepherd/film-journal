@@ -55,6 +55,8 @@ images:
 
 ## The Gist
 
+{% include pullquote.html quote="Of all the Charlie Browns in the world, you're the Charlie Brownest! - Linus" %}
+
 <div style="text-align: center">
   Yesterday, I snagged a copy of He-Man and She-Ra: A Christmas Special expecting it was going to be my pick for favorite animated classic - but, it was TERRIBLE. I couldn't past 5min of it. I guess this points to the fact that I don't really have a favorite animated movie. 
 
@@ -65,7 +67,7 @@ images:
   {% include image.html id="grinch-green" style="max-width: 168px" %}
   {% include image.html id="grinch-lime" style="max-height: 168px" %}
 
-  I was saving Charlie Brown Christmas for another category, but I'm gonna use it here. I put in on just before writing this post, and it took 3 seconds of "Christmas Time Is Here" as the camera pans over the snowy landscape to make it feel like the right choice - for me.
+  I was saving Charlie Brown Christmas for another category, but I'm gonna use it here. I put in on just before writing this post, and it took 3 seconds of "Christmas Time Is Here" as the camera pans over the snowy landscape to make it feel like the right choice - for me. 
   
   {% include image.html id="charlie-brown" style="max-height: 168px" %}
 </div>
