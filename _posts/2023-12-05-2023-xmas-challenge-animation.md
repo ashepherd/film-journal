@@ -54,8 +54,6 @@ images:
   {% include image.html id="he-man" style="max-width: 200px;float: left;padding: 10px;" %} 
   Yesterday, I snagged a copy of He-Man and She-Ra: A Christmas Special expecting it was going to be my pick for favorite animated classic - but, it was TERRIBLE. I couldn't past 5min of it. I guess this points to the fact that I don't really have a favorite animated movie. 
 
-  
-
   When I thought about it, I remembered enjoying How the Grinch Stole Christmas!, but when I watched it, it seemed off in some way? I remembered the Grinch been drawn as a darker green, not this fuzzy lime I saw on the DVD . It just didn't feel right.
 
 <div style="clear: both">
