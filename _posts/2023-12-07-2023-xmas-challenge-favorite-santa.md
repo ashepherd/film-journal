@@ -64,9 +64,9 @@ This Santa from the 80s delighted in making the lives of all children a little b
  When asked how he finds time to make a toy for every girl and boy, his wife answers,{% include image.html id="pleasure" style="max-height: 168px" %}
  "because it brings him pleasure". 
  
- Big and blustery, Santa is a gentle, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt way. {% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye. -Santa" %} Remember the Super Duper Looper?   
+ Big and blustery, Santa is a gentle, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt way. {% include pullquote.html quote="People don't care to give a gift just to see the light of happiness in a friend's eye. -Santa" %} Remember the Super Duper Looper?   
 {% include image.html id="stunt" style="max-height: 168px" %}
-When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, **Santa believes in you**.
+When attempting the death defying stunt, Santa is patient and compassionate with his frightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, **Santa believes in you**.
 
 
 
