@@ -2,50 +2,35 @@
 layout: post
 title:  Prompt - Movie
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_FMjpg_UX500_.jpg" width="125px"/>
+image: https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_FMjpg_UX500_.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
+    path: https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_FMjpg_UX500_.jpg
+    url: https://www.imdb.com/title/tt0089961/
     caption: Movie Title
     max-width: 125px
     display: inline
     border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
+  - id: santa
+    path: https://m.media-amazon.com/images/M/MV5BMTU3NDU1ODk1NF5BMl5BanBnXkFtZTgwNDAyODU4MDI@._V1_FMjpg_UX1200_.jpg
     display: inline
     border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
+  - id: kids
+    path: xmas/2023/kids.png
     display: inline
     border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
+  - id: sack
+    path: xmas/2023/sack.png
     display: inline
     border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
+  - id: pleasure
+    path: xmas/2023/pleasure.png
     display: inline
     border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
+  - id: stunt
+    path: xmas/2023/super-dooper-looper.png
+    caption: The Super Dooper Looper
     display: inline
     border: true
   - id: dec07
@@ -71,14 +56,16 @@ images:
 
 ## The Gist
 
-{% include pullquote.html quote="Did you see their faces when they saw the toys? - Santa" %} This Santa from the 80s delighted in making the lives of all children a little brighter. He wanted them to feel like someone cared for them. Big a blustery, this Santa is a gently, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt ways. Remember the Super Duper Looper? When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, Santa believes in you.
+{% include pullquote.html quote="Did you see their faces when they saw the toys? - Santa" %} This Santa from the 80s delighted in making the lives of all children a little brighter. He wanted them to feel like someone cared for them. Before becoming the immortal Santa Claus, the character was a carpenter who would make toys for all the children of the village. When asked how he finds time to make a toy for every girl and boy, his wife answers, "becuase it brings him pleasure". Big a blustery, this Santa is a gently, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt ways. Remember the Super Duper Looper? When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, Santa believes in you.
 
 {% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye -Santa" %}
 
 <div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
+  {% include image.html id="santa" style="max-height: 168px" %}
+  {% include image.html id="kids" style="max-height: 168px" %}
+  {% include image.html id="sack" style="max-height: 168px" %}
+  {% include image.html id="pleasure" style="max-height: 168px" %}
+  {% include image.html id="stunt" style="max-height: 168px" %}
 </div>
 
 
