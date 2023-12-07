@@ -66,7 +66,7 @@ My worst Santa is Gary Sinise as the gun-running truck driver, Gabriel who decid
 
 {% include image.html id="indians" style="max-height: 300px" %}
 
-Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistcial, and clueless who demonstrates zero skills to lead a crew in criminal activity saves for TWO qualifications 
+Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistical, and clueless who demonstrates zero skills to lead a crew in criminal activity saves for TWO qualifications 
 
 1. an uncanny ability steer an Oldsmobile Cutlass on the snowy Michigan backroads, and;
 2. ......he is an expert **dart chucker**.
@@ -78,7 +78,7 @@ As a Santa, Gabriel, shows zero compassion for children (he and his crew kick 2 
 
 {% include image.html id="shocked" style="max-width: 168px" %}{% include image.html id="gary-dying" style="max-width: 168px" %}
   
-While the 2nd half of this film being extremely entertaining (and a superb part by Dennis Farina playing a version of this Get Shorty character), and there being a nice little twist ending, Gabriel deserves one last reprimand for his Christmas activities. Had it not been for Gabriel's criminal hijinks, {% include image.html id="cash" style="max-height: 168px; float: right" %} Ben Affleck, would not end up making THE WORST Christmas Act of Kindness - PUTTING STACKS OF **INDIAN** CASH IN THE MAILBOXES OF ALL THE TOWN RESIDENTS. Why is this a terrible idea? BECUASE in a few days, EVERYONE in town is going to be inconvenienced by having to return this very cash since A LOCAL CASINO WAS JUST ROBBED. Another white man stealing from the Indians and causing a mess....and I blame Gary Sinise.
+While the 2nd half of this film being extremely entertaining (and a superb part by Dennis Farina playing a version of this Get Shorty character), and there being a nice little twist ending, Gabriel deserves one last reprimand for his Christmas activities. Had it not been for Gabriel's criminal hijinks, {% include image.html id="cash" style="max-width: 200px; float: right" %} Ben Affleck, would not end up making THE WORST Christmas Act of Kindness - PUTTING STACKS OF **INDIAN** CASH IN THE MAILBOXES OF ALL THE TOWN RESIDENTS. Why is this a terrible idea? BECUASE in a few days, EVERYONE in town is going to be inconvenienced by having to return this very cash since A LOCAL CASINO WAS JUST ROBBED. Another white man stealing from the Indians and causing a mess....and I blame Gary Sinise.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_7V6VgIvTY?si=z3X9lMXccQpj_GWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
