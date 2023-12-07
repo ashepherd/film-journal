@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Favorite Santa - Santa Claus: The Movie (1985)
 categories: [2023 XMAS Challenge]
 excerpt: <img src="https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_FMjpg_UX500_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_FMjpg_UX500_.jpg
