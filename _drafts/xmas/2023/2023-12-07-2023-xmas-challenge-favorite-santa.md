@@ -64,7 +64,7 @@ This Santa from the 80s delighted in making the lives of all children a little b
  When asked how he finds time to make a toy for every girl and boy, his wife answers,{% include image.html id="pleasure" style="max-height: 168px" %}
  "because it brings him pleasure". 
  
- Big and blustery, Santa is a gentle, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt way. {% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye -Santa" %} Remember the Super Duper Looper?   
+ Big and blustery, Santa is a gentle, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt way. {% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye. -Santa" %} Remember the Super Duper Looper?   
 {% include image.html id="stunt" style="max-height: 168px" %}
 When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, **Santa believes in you**.
 
@@ -73,7 +73,8 @@ When attempting the death defying stunt, Santa is patient and compassionate with
 ## Side Notes
 
 {% include pullquote.html quote="Haven't you ever had one of those nights where you just want to drop a BOMB on the whole world?!  - B.Z." %}
-John Lithgow amps up the juice for his protrayal of B.Z., the eveil corporate boss of a toy manufacturing company.  
+1. John Lithgow amps up the juice for his protrayal of B.Z., the eveil corporate boss of a toy manufacturing company.
+2. In the beginning, of the movie Santa and his wife, freeze to death in their sleigh returning from gifting out the wooden toys he made. As a kid, this wasn't clear to me. I thought they just feel asleep in the cold, haha
   
 ## Awards
 
@@ -81,7 +82,7 @@ John Lithgow amps up the juice for his protrayal of B.Z., the eveil corporate bo
 
 #### What's Aged the Worst?
 
-Cornelia, our tiny little heroine, is defending Santa and his toys to some snotty girls in a ballet class, and Girl #2 says, "My parents gave me a doll where she says whole sentences on a cassette. "
+Cornelia, our tiny little heroine, is defending Santa and his toys to some snotty girls in a ballet class, and Girl #2 says, "**My parents gave me a doll where she says whole sentences on a cassette.**"
 
 
 ## Credits
