@@ -1,164 +1,20 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Weirdest - Home Alone (1990)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://m.media-amazon.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_FMjpg_UX339_.jpg" width="125px"/>
+image: https://m.media-amazon.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_FMjpg_UX339_.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
+    path: https://m.media-amazon.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_FMjpg_UX339_.jpg
+    url: https://www.imdb.com/title/tt0099785/
+    caption: Home Alone (1990)
     max-width: 125px
     display: inline
     border: true
   - id: dec08
     path: xmas/dec08-weirdest.jpeg
     caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec10
-    path: xmas/dec10-most-in-need-remake.jpeg
-    caption: Most in Need of Remake	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec11
-    path: xmas/dec11-most-underrated.jpeg
-    caption: Most Underrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
-    caption: Favorite Sequel
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
     max-width: 125px
     display: inline
     border: true
@@ -179,11 +35,24 @@ images:
 
 ## The Gist
 
-The text
+QUESTIONS
+* Why are there SO many children across 2 sets of parents. Is this the Duggar Family Christmas?
+* "I wouldn't let you sleep in my room if you were growing on my ASS!" - Buzz
+* "The salt turns the bodies into mummies" -Buzz
+* How long did Joe Pesci stand their in the cop uniform?
+* "Look what you did you little jerk!" - Uncle
+  * I think it's becuase all the adults are sick of young kids.
+* Was Joe Pesci as the cop the very first phishing scam?
+* Was this top-nothc parenting?
+  * Kevin:"I don't want to see you for th rest of my life." 
+  * Mom: "Then say it again, and maybe it'll happen"
+  * The wind that night makes it seem like supernatural forces were at work - Santa?
+* Would Buzz have an Ice-T poster in 1990? This poster should've been MC Hammer.
+* 
 
 <div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
+  {% include image.html id="poster" style="max-height: 168px" %}
+  {% include image.html id="poster" style="max-height: 168px" %}
   {% include image.html id="poster" style="max-height: 168px" %}
 </div>
 
@@ -255,7 +124,7 @@ The Butcher's Costume
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - Home Alone (1990)](https://www.imdb.com/title/tt0099785/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
