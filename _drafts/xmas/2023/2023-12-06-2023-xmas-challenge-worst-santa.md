@@ -33,7 +33,7 @@ images:
     path: xmas/2023/gary-dying.png
     display: inline
     border: true
-- id: cash
+  - id: cash
     path: xmas/2023/cash-gift.png
     display: inline
     border: true
