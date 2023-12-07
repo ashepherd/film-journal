@@ -29,8 +29,8 @@ images:
     path: xmas/2023/gary-shocked.png
     display: inline
     border: true
-  - id: gary-dying
-    path: xmas/2023/gary-dying.png
+  - id: indians
+    path: xmas/2023/indian-casino.png
     display: inline
     border: true
   - id: cash
@@ -64,9 +64,11 @@ images:
 
 My worst Santa is Gary Sinise as the gun-running truck driver, Gabriel who decides to orchestrate a robbery of a casino on Christmas Eve. Why is he the worst? Surely there are worse Santas. Well, THIS Santa decides to rip off an _indian_ casino, and so for this assault on my indigenous peoples of Michigan, Gabriel takes the prize. 
 
-Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistcial, and clueless who dmeonstrates zero skills to lead a crew in criminal activity saves for TWO qualifications 
+{% include image.html id="indians" style="max-height: 300px" %}
 
-1. an uncanny ability steer an Olbsmobile Cutlass on the snowy Michigan backroads, and;
+Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistcial, and clueless who demonstrates zero skills to lead a crew in criminal activity saves for TWO qualifications 
+
+1. an uncanny ability steer an Oldsmobile Cutlass on the snowy Michigan backroads, and;
 2. ......he is an expert **dart chucker**.
 
 {% include image.html id="gary-dart" style="max-height: 168px" %}
