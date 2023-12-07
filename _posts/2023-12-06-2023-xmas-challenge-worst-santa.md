@@ -2,7 +2,7 @@
 layout: post
 title:  Worst Santa - Gary Sinise, Reindeer Games (2000)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="xmas/2023/reindeer-games-poster.png" width="125px"/>
+excerpt: <img src="/images/xmas/2023/reindeer-games-poster.png" width="125px"/>
 image: xmas/2023/reindeer-games-poster.png
 images:
   - id: poster
