@@ -14,7 +14,6 @@ images:
     border: true
   - id: santa
     path: https://m.media-amazon.com/images/M/MV5BMTU3NDU1ODk1NF5BMl5BanBnXkFtZTgwNDAyODU4MDI@._V1_FMjpg_UX1200_.jpg
-    display: inline
     border: true
   - id: kids
     path: xmas/2023/kids.png
@@ -42,7 +41,7 @@ images:
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#side-notes">Side Notes</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
   <p>{% include image.html id="poster" %}{% include image.html id="dec07" style="max-width: 168px"%}</p>
 </div>
 
@@ -56,17 +55,17 @@ images:
 
 ## The Gist
 
-{% include pullquote.html quote="Did you see their faces when they saw the toys? - Santa" %} This Santa from the 80s delighted in making the lives of all children a little brighter. He wanted them to feel like someone cared for them. Before becoming the immortal Santa Claus, the character was a carpenter who would make toys for all the children of the village. When asked how he finds time to make a toy for every girl and boy, his wife answers, "becuase it brings him pleasure". Big a blustery, this Santa is a gently, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt ways. Remember the Super Duper Looper? When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, Santa believes in you.
+{% include image.html id="santa" style="max-height: 250px" %}
 
-{% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye -Santa" %}
+This Santa from the 80s delighted in making the lives of all children a little brighter. He wanted them to feel like someone cared for them. Before becoming the immortal Santa Claus, the character was a carpenter who would make toys for all the children of the village. {% include pullquote.html quote="Did you see their faces when they saw the toys? - Santa" %} 
 
-<div style="text-align: center">
-  {% include image.html id="santa" style="max-height: 168px" %}
-  {% include image.html id="kids" style="max-height: 168px" %}
-  {% include image.html id="sack" style="max-height: 168px" %}
-  {% include image.html id="pleasure" style="max-height: 168px" %}
-  {% include image.html id="stunt" style="max-height: 168px" %}
-</div>
+{% include image.html id="kids" style="max-height: 168px" %}
+{% include image.html id="sack" style="max-height: 168px" %}
+{% include image.html id="pleasure" style="max-height: 168px" %}
+ When asked how he finds time to make a toy for every girl and boy, his wife answers, "becuase it brings him pleasure". Big a blustery, this Santa is a gently, but strong leader in the North Pole. He notices those that need encouragement, and delivers it in the most heartfelt ways. {% include pullquote.html quote="People don't care to give a gift just to see the light of hapiness in a friend's eye -Santa" %} Remember the Super Duper Looper?   
+{% include image.html id="stunt" style="max-height: 168px" %}
+When attempting the death defying stunt, Santa is patient and compassionate with his freightened, nervous reindeer. Its might be a thing to believe in Santa, but in this film, **Santa believes in you**.
+
 
 
 ## Side Notes
