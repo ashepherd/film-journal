@@ -2,8 +2,8 @@
 layout: post
 title:  Worst Santa - Gary Sinise, Reindeer Games (2000)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="xmas/2023/reindeer-games-poster.png" width="125px"/>
+image: xmas/2023/reindeer-games-poster.png
 images:
   - id: poster
     path: xmas/2023/reindeer-games-poster.png
@@ -60,9 +60,10 @@ images:
 
 ## The Gist
 
-My worst Santa is Gary Sinise as the brutish, imbicile, gun-running knucklehead who decides to orchestrate a robbery of a casino on Christmas Eve. Why is he the worst? Surely there are worse Santas. Well, THIS Santa decides to rip off an _indian_ casino, and so for this assault on my indigenous peoples of Michigan, Gary takes the cake.
+My worst Santa is Gary Sinise as the brutish, imbicile, gun-running knucklehead who decides to orchestrate a robbery of a casino on Christmas Eve. Why is he the worst? Surely there are worse Santas. Well, THIS Santa decides to rip off an _indian_ casino, and so for this assault on my indigenous peoples of Michigan, Gary takes the cake. 
 
-
+Not only does he want to rip off this tribal establishment, Apart from never having ever COMMITTING a robbery, Gary, named Gabriel, has NO demonstrable skills to lead a criminal enterprise. This Eddie Vedder on bath salts 
+*  
 
 <div style="text-align: center">
   {% include image.html id="gary-santa" style="max-width: 168px" %}
