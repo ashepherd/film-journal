@@ -51,7 +51,7 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2ykIcp_pbJg?si=haamor_vnbckrWcl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## The Gist
