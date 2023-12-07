@@ -66,7 +66,7 @@ My worst Santa is Gary Sinise as the gun-running truck driver, Gabriel who decid
 
 {% include image.html id="indians" style="max-height: 300px" %}
 
-Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistical, and clueless who demonstrates zero skills to lead a crew in criminal activity saves for TWO qualifications 
+Gary plays an over-the-hill, truck-driving grunge fan in the year 2000. This Eddie Vedder on bath salts is brutish, egotistical, and clueless who demonstrates zero skills to lead a crew in criminal activity save for TWO qualifications 
 
 1. an uncanny ability steer an Oldsmobile Cutlass on the snowy Michigan backroads, and;
 2. ......he is an expert **dart chucker**.
