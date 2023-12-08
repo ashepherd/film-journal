@@ -58,13 +58,13 @@ should've been MC Hammer)
 
 For the real questions, that make Home Alone the weirdest holiday movie
 
-Q1. On Day 2 of aloneness, Kevin feels right at home. Took a shower, used soap, shampoo, and washed all his crevices. He'll even buy a toothbrush he goes out shopping later that day. BUT, he couldn't pack a suitcase despite watching dozens of other kids do it in front of him? (Also, later, he knows how to operate the laundry machines?)
+**Q1.** On Day 2 of aloneness, Kevin feels right at home. Took a shower, used soap, shampoo, and washed all his crevices. He'll even buy a toothbrush he goes out shopping later that day. BUT, he couldn't pack a suitcase despite watching dozens of other kids do it in front of him? (Also, later, he knows how to operate the laundry machines?)
 
-Q2. When getting the pizza delivered to the back door, how is it that Kevin is so good at fast-forwarding the VHS tape to play the perfect audio? 
+**Q2. **When getting the pizza delivered to the back door, how is it that Kevin is so good at fast-forwarding the VHS tape to play the perfect audio? 
 
-Q3: If he really wants his family back, and he's become so resourceful around the house, why doesn't he walk to the police or when he's in the church tell an adult? Won't he run out of straight cash, homie?
+**Q3: **If he really wants his family back, and he's become so resourceful around the house, why doesn't he walk to the police or when he's in the church tell an adult? Won't he run out of straight cash, homie?
 
-Q4: Where did Kevin get his sadistic tendencies? Hot iron on the doorknob? Tar and nails on the stairs? These take some mature thinking.
+**Q4: **Where did Kevin get his sadistic tendencies? Hot iron on the doorknob? Tar and nails on the stairs? These take some mature thinking.
 
 You might be thinking, Adam, this is about having a good time. It's "suspension of disbelief". Just enjoy the movie. The answer ISN'T just suspension of disbelief. 
 
@@ -72,7 +72,7 @@ COULD IT BE, that the answer is that Home Alone is the Christmas comedy version 
 
 YES. The answer is YES. 
 
-Kevin is ACTUALLY a 33 yr. old male, adopted by his parents, and unbeknownst to all, he possesses the same disorder  as Esther from the movie Orphan (2009). He's a 90s version of Hasbulla. {% include image.html id="hasbulla" style="max-height: 168px" %}
+**Kevin is ACTUALLY a 33 yr. old male, adopted by his parents, and unbeknownst to all, he possesses the same growth disorder as Esther from the movie Orphan (2009)**. He's a 90s version of Hasbulla. {% include image.html id="hasbulla" style="max-height: 168px" %}
    THIS, my friends, explains 
 
 1. his hidden adult capacity, 
