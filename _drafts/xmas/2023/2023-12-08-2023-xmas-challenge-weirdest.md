@@ -56,7 +56,7 @@ should've been MC Hammer)
 5. A Family Crisis Intervention Sergeant named "[Larry Balzak](https://homealone.fandom.com/wiki/Larry_Balzak)"?(think about it)
 6. Del Griffith (Planes, Train, and Automobiles) learned to play the clarinet so he can stalk single women in the airport as the Polka King of the Midwest?
 
-For the real questions, that make Home Alone the weirdest holiday movie
+FOR THE REAL QUESTIONS  that make Home Alone the weirdest holiday movie
 
 **Q1.** On Day 2 of aloneness, Kevin feels right at home. Took a shower, used soap, shampoo, and washed all his crevices. He'll even buy a toothbrush he goes out shopping later that day. BUT, he couldn't pack a suitcase despite watching dozens of other kids do it in front of him? (Also, later, he knows how to operate the laundry machines?)
 
