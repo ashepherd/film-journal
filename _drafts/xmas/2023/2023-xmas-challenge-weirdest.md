@@ -53,7 +53,7 @@ Before I explain, let's start with some questions:
 3. Also, was Joe Pesci's cop the very first on-screen phishing scam?
 4. Would Buzz have an Ice-T poster in 1990? (more likely this 
 should've been MC Hammer)
-5. A Family Crisis Intervention Sergeant named "Larry Balzak"?(think about it)
+5. A Family Crisis Intervention Sergeant named "[Larry Balzak](https://homealone.fandom.com/wiki/Larry_Balzak)"?(think about it)
 6. Del Griffith (Planes, Train, and Automobiles) learned to play the clarinet so he can stalk single women in the airport as the Polka King of the Midwest?
 
 For the real questions, that make Home Alone the weirdest holiday movie
@@ -89,7 +89,7 @@ THINK ABOUT IT. And let your Christmas viewings of Home Alone forever be improve
 ## Credits
 
 * [IMDb - Home Alone (1990)](https://www.imdb.com/title/tt0099785/)
-
+* [https://homealone.fandom.com/wiki/Larry_Balzak](https://homealone.fandom.com/wiki/Larry_Balzak)
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
 
