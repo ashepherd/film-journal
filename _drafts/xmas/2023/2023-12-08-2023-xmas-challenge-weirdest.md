@@ -72,7 +72,7 @@ COULD IT BE, that the answer is that Home Alone is the Christmas comedy version 
 
 YES. The answer is YES. 
 
-**Kevin is ACTUALLY a 33 yr. old male, adopted by his parents, and unbeknownst to all, he possesses the same growth disorder as Esther from the movie Orphan (2009)**. He's a 90s version of Hasbulla. {% include image.html id="hasbulla" style="max-height: 168px" %}
+**Kevin is ACTUALLY a 33 yr. old male, adopted by his parents, and unbeknownst to all, he possesses the same growth hormone disorder as Esther from the movie Orphan (2009)**. He's a 90s version of Hasbulla. {% include image.html id="hasbulla" style="max-height: 168px" %}
    THIS, my friends, explains 
 
 1. his hidden adult capacity, 
