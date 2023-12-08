@@ -48,6 +48,8 @@ QUESTIONS
   * Mom: "Then say it again, and maybe it'll happen"
   * The wind that night makes it seem like supernatural forces were at work - Santa?
 * Would Buzz have an Ice-T poster in 1990? This poster should've been MC Hammer.
+* A Family Crisis Intervention Sergeant named "Larry Balzak" with a huge piece of chocolate donut hanging off the phone receiver.
+* Day 2 - took a shower, used soap, shampoo, and all crevices. Will buy a toothbrush he goes out. But just 2 days ago he couldn't pack a suitcase despite watching dozens of other kids do it in front of him. This isn't an irregularity, but the focus of clear, and well-rested mind.
 * 
 
 <div style="text-align: center">
