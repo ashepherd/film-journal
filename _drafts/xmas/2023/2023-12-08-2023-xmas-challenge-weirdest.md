@@ -18,17 +18,6 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: hasbulla
-    path: https://imgk.timesnownews.com/story/Hasbulla_Magomedov1.png
-    url: [https://www.imdb.com/title/tt0099785/](https://www.google.com/search?q=who+is+hasbulla&oq=who+is+hasbulla)
-    caption: Hasbulla
-    display: inline
-    border: true
-  - id: orphan-poster
-    path: https://m.media-amazon.com/images/M/MV5BMTBjMjY0ODEtZGVkMy00MjUyLTlkMjAtNDBmNzVjOTk0NzQyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,1,380,562_.jpg
-    caption: Orphan (2009)
-    display: inline
-    border: true
 ---
 
 <div style="text-align: center">
