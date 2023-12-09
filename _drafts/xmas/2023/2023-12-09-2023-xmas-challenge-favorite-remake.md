@@ -9,7 +9,6 @@ images:
     path: https://m.media-amazon.com/images/M/MV5BOTZiY2FjYTctMTkzYi00ZDQ5LWE0MDktMzc0Y2QzYzMwMDYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1800_.jpg
     url: https://www.imdb.com/title/tt0044008/
     caption: Scrooge (1951)
-    max-width: 125px
     display: inline
     border: true
   - id: dec09
@@ -47,7 +46,7 @@ images:
 
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec09" style="max-width: 125px"%}</p>
+  <p>{% include image.html id="poster" style="max-height: 125px" %}{% include image.html id="dec09" style="max-width: 125px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
@@ -60,7 +59,7 @@ images:
 
 ## The Gist
 
-{% include image.html id="mean" style="max-height: 168px; float: left" %} Alistair Sim (Scrooge) is the reason I like this movie so much. I only recently watched it last week, and it was the portrayal of Scrooge and Sim's acting that makes the transformation believable. A commenter on a Youtube video of the ending says it best, "Alastair Sim played Scrooge like he was an actual person.... It doesn't just make Scrooge a comic book villain who has a change of heart after having the hell scared out of him. He's a guy who had numerous awful things happen to him." {% include image.html id="sad" style="max-height: 168px; float: right" %}{% include image.html id="remorse" style="max-height: 168px; float: right" %} My favorite part is watching ["Uncle" Scrooge play with Tiny Tim framed through an underpass](https://www.youtube.com/watch?v=ZPceYjVQVnw&t=163s), and I think its the bright light surrounding these two framed by the darkness of the underpass that captures Scrooge's transformation and his turnaround so well.
+{% include image.html id="mean" style="max-height: 168px; float: left; padding: 10px" %} {% include image.html id="sad" style="max-height: 168px; float: left; padding: 10px" %}{% include image.html id="remorse" style="max-height: 168px; float: left; padding: 10px" %} Alistair Sim (Scrooge) is the reason I like this movie so much. I only recently watched it last week, and it was the portrayal of Scrooge and Sim's acting that makes the transformation believable. A commenter on a Youtube video of the ending says it best, "Alastair Sim played Scrooge like he was an actual person.... It doesn't just make Scrooge a comic book villain who has a change of heart after having the hell scared out of him. He's a guy who had numerous awful things happen to him."  My favorite part is watching ["Uncle" Scrooge play with Tiny Tim framed through an underpass](https://www.youtube.com/watch?v=ZPceYjVQVnw&t=163s), and I think its the bright light surrounding these two framed by the darkness of the underpass that captures Scrooge's transformation and his turnaround so well.
 {% include image.html id="accept" style="max-height: 168px" %}{% include image.html id="smile" style="max-height: 168px" %}{% include image.html id="underpass" style="max-height: 168px" %}
 
 <div style="text-align: center">
