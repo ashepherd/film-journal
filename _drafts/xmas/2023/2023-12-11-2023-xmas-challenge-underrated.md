@@ -19,31 +19,31 @@ images:
     display: inline
     border: true
   - id: black-market
-    path: max/2023/8-bit-xmas-black-market.png
+    path: xmas/2023/8-bit-xmas-black-market.png
     display: inline
   - id: david-cross
-    path: max/2023/8-bit-xmas-david-cross.png
+    path: xmas/2023/8-bit-xmas-david-cross.png
     display: inline
   - id: steve-zahn
-    path: max/2023/8-bit-xmas-steve-zahn.png
+    path: xmas/2023/8-bit-xmas-steve-zahn.png
     display: inline
   - id: cabbage-patch
-    path: max/2023/8-bit-xmas-cabbage-patch.jpg
+    path: xmas/2023/8-bit-xmas-cabbage-patch.jpg
     display: inline
   - id: mission
-    path: max/2023/8-bit-xmas-mission.jpg
+    path: xmas/2023/8-bit-xmas-mission.jpg
     display: inline
   - id: power-glove
-    path: max/2023/8-bit-xmas-power-glove.jpg
+    path: xmas/2023/8-bit-xmas-power-glove.jpg
     display: inline
-  - id:violence
-    path: max/2023/8-bit-xmas-vg-violence.jpg
+  - id: violence
+    path: xmas/2023/8-bit-xmas-vg-violence.jpg
     display: inline
   - id: bully
-    path: max/2023/8-bit-xmas-bully.jpg
+    path: xmas/2023/8-bit-xmas-bully.jpg
     display: inline
   - id: kids
-    path: max/2023/8-bit-xmas-kids.jpg
+    path: xmas/2023/8-bit-xmas-kids.jpg
     display: inline
 ---
 
