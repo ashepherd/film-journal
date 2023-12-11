@@ -51,21 +51,21 @@ images:
 A synopsis from IMDb read, _"On Christmas Eve in Finland, Santa Claus is unearthed in an archaeological dig. Soon after, children start disappearing, leading a boy and his father to capture Santa and, with the help of fellow hunters, they look to sell him back to the corporation that sponsored the dig."_
 
 Here's what great about it
+{% include image.html id="book" style="float: right; max-width: 350px" %}
 
-1. Santa Claus encased in a huge block of ice (covered with tons of sawdust) {% include image.html id="book" style="float: right; max-width: 200px" %}
+1. Santa Claus encased in a huge block of ice (covered with tons of sawdust) 
 2. A safety precaution card about what you can and cannot do around Santa (or else)
 3. The Elves!!
 4. The folklore - old Finnish books depicting Santa "correcting" naughty little children
 
 
-Based on a few, short films (watch the original, [Rare Exports Inc.](https://www.shortoftheweek.com/2012/12/24/rare-exports-inc/), ) the story draws us in with a really cool idea - the Elves look like Santa (or what us westerners would recognize as such - apart from them being naked.....always), and Santa is....hard to describe. {% include image.html id="horns" style="float: left; max-width: 200px" %}And this is why it needs a remake. With a running time under 90mins I'd love to see the following:
+{% include image.html id="horns" style="float: left; max-width: 350px" %} Based on a few, short films (watch the original, [Rare Exports Inc.](https://www.shortoftheweek.com/2012/12/24/rare-exports-inc/), ) the story draws us in with a really cool idea - the Elves look like Santa (or what us westerners would recognize as such - apart from them being naked.....always), and Santa is....hard to describe. And this is why it needs a remake. With a running time under 90mins I'd love to see the following:
 
-{% include image.html id="cookie" style="float: left; max-width: 200px" %}
+{% include image.html id="cookie" style="float: left; max-width: 350px" %}
 
 1. More folklore around the elves. Why do they get distracted by gingerbread cookies (it's funny, i get it, but...my spectrum is showing)
 2. The plan to save the children and defeat Santa and the elves is...odd that it works, and we don't have enough backstory to understand why it would work. 
-3. Even the Finnish can poke fun at the commercialization of Christmas as they round up the elves and retrain them to be nice to children, then ship them around the world to pocket $16.8M 
-{% include image.html id="elves" style="float: right; max-width: 200px" %}
+3. Even the Finnish can poke fun at the commercialization of Christmas as they round up the elves and retrain them to be nice to children, then ship them around the world to pocket $16.8M {% include image.html id="elves" style="max-width: 700px" %}
 4. You never get to see Santa in its full glory. 
 
 In this case, I'm cheering for the hollywood remake where all is explained and shown, and it turns out to be a terrible film. I know, but this is so interesting, it leaves me wanting more. Krampus tried, but Rare Exports is far superior. 
