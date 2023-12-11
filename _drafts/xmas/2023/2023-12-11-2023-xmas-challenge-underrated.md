@@ -65,17 +65,20 @@ images:
 
 It was released during the pandemic, Doogie Howser opens the film, and most of all - a HORRIBLE title for a movie. These are probably why it has gone ignored. Doogie Howser + Christmas gives off Hallmark channel vibes. But the title - that's not its fault (it was was [based on a book](https://a.co/d/hXNUlVU)). This flick catches wildfire if its renamed to "Nintendo Christmas" (drop the 'N' in Nintendo - inside joke if you've watched the movie). Well maybe not, but i'm terrible with titles. But, here's what's great about it, and what all rewatchable movies have:
 
-1. Interesting Characters {% include image.html id="kids" style="float: right; max-width: 200px" %}
+{% include image.html id="kids" style="float: right; max-width: 350px" %}
+
+1. Interesting Characters 
 2. Great Scenes
 
-A good movie has great scenes. 8-Bit has them and they are more than just the nostalgia of seeing Nintendo, 80s kids clothes, baseball cards, dental retainers, and black market Cabbage Patch dolls.
+All good movies have **great** scenes. 8-Bit has them and they are more than just the nostalgia of seeing Nintendo, 80s kids clothes, baseball cards, dental retainers, and black market Cabbage Patch dolls.
 
-{% include image.html id="mission" style="max-width: 200px" %} {% include image.html id="cpower-glove" style="max-width: 200px" %} {% include image.html id="cabbage-patch" style="max-width: 200px" %}
+{% include image.html id="mission" style="max-width: 350px" %} {% include image.html id="cabbage-patch" style="max-width: 350px" %}
 
-Back to Doogie Howser - most of the film is flashback to Doogie as a kid in 1988. He's in the movie about as much as Peter Falk & Fred Savage in The Princess Bride. The characters are interesting, and you are rooting for their wishes to come true. {% include image.html id="steve-zahn" style="float: left; max-width: 200px" %}Steve Zahn (Doogie's dad) and David Cross (black market toy dealer) {% include image.html id="david-cross" style="float: right; max-width: 200px" %} are memorable along with the gang of kids.
+Back to Doogie Howser - most of the film is flashback to Doogie as a kid in 1988. He's in the movie about as much as Peter Falk & Fred Savage in The Princess Bride. The characters are interesting, and you are rooting for their wishes to come true. {% include image.html id="steve-zahn" style="float: left; max-width: 200px; padding: 10px" %} {% include image.html id="david-cross" style="float: left; max-width: 200px; padding: 10px" %} Steve Zahn (Doogie's dad) and David Cross (black market toy dealer)  are memorable along with the gang of kids.
+
 It's a slice of life, but best of all, its sweet hearted, good-natured, and has a truly heartwarming ending. Give it a watch!
 
-{% include image.html id="bully" style="max-width: 200px" %}{% include image.html id="black-market" style="max-width: 200px" %}
+{% include image.html id="power-glove" style="max-width: 200px" %}{% include image.html id="bully" style="max-width: 200px" %}{% include image.html id="black-market" style="max-width: 200px" %}
 
 ## Credits
 
