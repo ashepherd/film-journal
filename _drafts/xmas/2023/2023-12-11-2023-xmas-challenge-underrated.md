@@ -1,74 +1,14 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Most Underrated - 8-Bit Christmas (2021)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://film.adamshepherd.net/images/xmas/2023/8-bit-xmas-poster.jpg" width="125px"/>
+image: https://film.adamshepherd.net/images/xmas/2023/8-bit-xmas-poster.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec08
-    path: xmas/dec08-weirdest.jpeg
-    caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec10
-    path: xmas/dec10-most-in-need-remake.jpeg
-    caption: Most in Need of Remake	
+    path: https://film.adamshepherd.net/images/xmas/2023/8-bit-xmas-poster.jpg
+    url: https://www.imdb.com/title/tt11540284/
+    caption: 8-Bit Christmas (2021)
     max-width: 125px
     display: inline
     border: true
@@ -78,95 +18,38 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
+  - id: black-market
+    path: max/2023/8-bit-xmas-black-market.png
     display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
+  - id: david-cross
+    path: max/2023/8-bit-xmas-david-cross.png
     display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
+  - id: steve-zahn
+    path: max/2023/8-bit-xmas-steve-zahn.png
     display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
-    max-width: 125px
+  - id: cabbage-patch
+    path: max/2023/8-bit-xmas-cabbage-patch.jpg
     display: inline
-    border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
-    caption: Favorite Sequel
-    max-width: 125px
+  - id: mission
+    path: max/2023/8-bit-xmas-mission.jpg
     display: inline
-    border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
+  - id: power-glove
+    path: max/2023/8-bit-xmas-power-glove.jpg
     display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
+  - id:violence
+    path: max/2023/8-bit-xmas-vg-violence.jpg
     display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
+  - id: bully
+    path: max/2023/8-bit-xmas-bully.jpg
     display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
+  - id: kids
+    path: max/2023/8-bit-xmas-kids.jpg
     display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
-    max-width: 125px
-    display: inline
-    border: true
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-details">The Details</a>| <a href="#credits">Credits</a></p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec11" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
@@ -174,88 +57,29 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-## The Gist
-
-The text
-
-<div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CI-YWRK0VPo?si=cLvGRLBDhpKaJdVG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
 ## The Details
 
-...
+It was released during the pandemic, Doogie Howser opens the film, and most of all - a HORRIBLE title for a movie. These are probably why it has gone ignored. Doogie Howser + Christmas gives off Hallmark channel vibes. But the title - that's not its fault (it was was [based on a book](https://a.co/d/hXNUlVU)). This flick catches wildfire if its renamed to "Nintendo Christmas" (drop the 'N' in Nintendo - inside joke if you've watched the movie). Well maybe not, but i'm terrible with titles. But, here's what's great about it, and what all rewatchable movies have:
 
-## Awards
+1. Interesting Characters {% include image.html id="kids" style="float: right; max-width: 200px" %}
+2. Great Scenes
 
-### _...from the Rewatchables Podcast_
+A good movie has great scenes. 8-Bit has them and they are more than just the nostalgia of seeing Nintendo, 80s kids clothes, baseball cards, dental retainers, and black market Cabbage Patch dolls.
 
-#### Most Rewatchable Scene
+{% include image.html id="mission" style="max-width: 200px" %} {% include image.html id="cpower-glove" style="max-width: 200px" %} {% include image.html id="cabbage-patch" style="max-width: 200px" %}
 
-[youtube embed]
+Back to Doogie Howser - most of the film is flashback to Doogie as a kid in 1988. He's in the movie about as much as Peter Falk & Fred Savage in The Princess Bride. The characters are interesting, and you are rooting for their wishes to come true. {% include image.html id="steve-zahn" style="float: left; max-width: 200px" %}Steve Zahn (Doogie's dad) and David Cross (black market toy dealer) {% include image.html id="david-cross" style="float: right; max-width: 200px" %} are memorable along with the gang of kids.
+It's a slice of life, but best of all, its sweet hearted, good-natured, and has a truly heartwarming ending. Give it a watch!
 
-<p>&nbsp;</p>
-
-#### The "Den of Thieves Benihana" Award for Scene Stealing Location
-
-List it
-
-<p>&nbsp;</p>
-
-#### What Piece of Memorabilia Would You Want From This Movie?
-
-The Butcher's Costume
-{% include image.html id="butcher" style="max-width: 560px" %}
-
-<p>&nbsp;</p>
-
-#### The “Slow Ride” Award for Best Needle Drop
-
-[youtube embed]
-
-<p>&nbsp;</p>
-
-
-* The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
-* What's Aged the Best?
-* What's Aged the Worst?
-* The Dion Waiters Award for Best Heat Check Performance
-* The Joey Pants "That Guy" Award
-* The "Ruffalo/Hanna/Rubinek/Partridge" Overacting Award
-* Casting What Ifs
-* Half-Assed Internet Research
-* Probably Unanswerable Questions
-* Sequel, Prequel, Limited Series, or All Black Remake (updated)
-* Apex Mountain
-* Who Won the Movie?
-* Picking Nits
-* Recasting Couch (retired sort of since the answer's always Sydney Sweeney)
-* Is this Movie Better with Danny Trejo, Steve Buscemi, or Michael K. Williams? (retired)
-* The "Den of Thieves Benihana" Award for Scene Stealing Location
-* The "Great Shot Gordo" Award for Most Cinematic Shot
-* The "Big Kahuna Burger" Award for Best Use of Food and Drink
-* The "Butch's Girlfriend" Award for the Weakest Link in the Film
-* The "Ron Burgundy Flute" Award for the Best Time for a Pee Break
-* Is There a Better Title for this Movie?
-* The Steven A. Smith Hottest Take Award
-* The Teddy KGB Award for the Actor in a Completely Different Movie
-* Hall of Fame Plaque
-* Just One Oscar
-* Best Double Feature
-* Best Race Horse Name from this Movie
-* What Piece of Memorabilia Would You Want From This Movie?
-* The Coach Finstock Award for Best Life Lesson
-* The “Slow Ride” Award for Best Needle Drop
+{% include image.html id="bully" style="max-width: 200px" %}{% include image.html id="black-market" style="max-width: 200px" %}
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - 8-Bit Christmas (2021)](https://www.imdb.com/title/tt11540284/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}

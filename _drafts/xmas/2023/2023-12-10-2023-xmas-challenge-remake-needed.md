@@ -1,68 +1,14 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  "Most in Need of a Remake - Rare Exports: A Christmas Tale (2010)"
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://film.adamshepherd.net/images/xmas/2023/rare-exports-poster.jpg" height="125px"/>
+image: https://film.adamshepherd.net/images/xmas/2023/rare-exports-poster.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec08
-    path: xmas/dec08-weirdest.jpeg
-    caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
+    path: https://film.adamshepherd.net/images/xmas/2023/rare-exports-poster.jpg
+    url: https://www.imdb.com/title/tt1401143/
+    caption: "Rare Exports: A Christmas Tale (2010)"
     max-width: 125px
     display: inline
     border: true
@@ -72,101 +18,24 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: dec11
-    path: xmas/dec11-most-underrated.jpeg
-    caption: Most Underrated	
-    max-width: 125px
+  - id: horns
+    path: xmas/2023/rare-exports-horns.jpg
     display: inline
-    border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
+  - id: book
+    path: xmas/2023/rare-exports-book.jpg
     display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
+  - id: elves
+    path: xmas/2023/rare-exports-elves.jpg
     display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
+  - id: cookie
+    path: xmas/2023/rare-exports-gingerbread-cookie.jpg
     display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
-    caption: Favorite Sequel
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
-    max-width: 125px
-    display: inline
-    border: true
+  
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-details">The Details</a> | <a href="#credits">Credits</a></p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec10" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
@@ -174,88 +43,37 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PwT3wtUCv9Y?si=nBN3JgHkdNslqjWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-## The Gist
-
-The text
-
-<div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
-</div>
-
 
 ## The Details
 
-...
+A synopsis from IMDb read, _"On Christmas Eve in Finland, Santa Claus is unearthed in an archaeological dig. Soon after, children start disappearing, leading a boy and his father to capture Santa and, with the help of fellow hunters, they look to sell him back to the corporation that sponsored the dig."_
 
-## Awards
+Here's what great about it
 
-### _...from the Rewatchables Podcast_
-
-#### Most Rewatchable Scene
-
-[youtube embed]
-
-<p>&nbsp;</p>
-
-#### The "Den of Thieves Benihana" Award for Scene Stealing Location
-
-List it
-
-<p>&nbsp;</p>
-
-#### What Piece of Memorabilia Would You Want From This Movie?
-
-The Butcher's Costume
-{% include image.html id="butcher" style="max-width: 560px" %}
-
-<p>&nbsp;</p>
-
-#### The “Slow Ride” Award for Best Needle Drop
-
-[youtube embed]
-
-<p>&nbsp;</p>
+1. Santa Claus encased in a huge block of ice (covered with tons of sawdust) {% include image.html id="book" style="float: right; max-width: 200px" %}
+2. A safety precaution card about what you can and cannot do around Santa (or else)
+3. The Elves!!
+4. The folklore - old Finnish books depicting Santa "correcting" naughty little children
 
 
-* The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
-* What's Aged the Best?
-* What's Aged the Worst?
-* The Dion Waiters Award for Best Heat Check Performance
-* The Joey Pants "That Guy" Award
-* The "Ruffalo/Hanna/Rubinek/Partridge" Overacting Award
-* Casting What Ifs
-* Half-Assed Internet Research
-* Probably Unanswerable Questions
-* Sequel, Prequel, Limited Series, or All Black Remake (updated)
-* Apex Mountain
-* Who Won the Movie?
-* Picking Nits
-* Recasting Couch (retired sort of since the answer's always Sydney Sweeney)
-* Is this Movie Better with Danny Trejo, Steve Buscemi, or Michael K. Williams? (retired)
-* The "Den of Thieves Benihana" Award for Scene Stealing Location
-* The "Great Shot Gordo" Award for Most Cinematic Shot
-* The "Big Kahuna Burger" Award for Best Use of Food and Drink
-* The "Butch's Girlfriend" Award for the Weakest Link in the Film
-* The "Ron Burgundy Flute" Award for the Best Time for a Pee Break
-* Is There a Better Title for this Movie?
-* The Steven A. Smith Hottest Take Award
-* The Teddy KGB Award for the Actor in a Completely Different Movie
-* Hall of Fame Plaque
-* Just One Oscar
-* Best Double Feature
-* Best Race Horse Name from this Movie
-* What Piece of Memorabilia Would You Want From This Movie?
-* The Coach Finstock Award for Best Life Lesson
-* The “Slow Ride” Award for Best Needle Drop
+Based on a few, short films (watch the original, [Rare Exports Inc.](https://www.shortoftheweek.com/2012/12/24/rare-exports-inc/), ) the story draws us in with a really cool idea - the Elves look like Santa (or what us westerners would recognize as such - apart from them being naked.....always), and Santa is....hard to describe. {% include image.html id="horns" style="float: left; max-width: 200px" %}And this is why it needs a remake. With a running time under 90mins I'd love to see the following:
+
+{% include image.html id="cookie" style="float: left; max-width: 200px" %}
+
+1. More folklore around the elves. Why do they get distracted by gingerbread cookies (it's funny, i get it, but...my spectrum is showing)
+2. The plan to save the children and defeat Santa and the elves is...odd that it works, and we don't have enough backstory to understand why it would work. 
+3. Even the Finnish can poke fun at the commercialization of Christmas as they round up the elves and retrain them to be nice to children, then ship them around the world to pocket $16.8M 
+{% include image.html id="elves" style="float: right; max-width: 200px" %}
+4. You never get to see Santa in its full glory. 
+
+In this case, I'm cheering for the hollywood remake where all is explained and shown, and it turns out to be a terrible film. I know, but this is so interesting, it leaves me wanting more. Krampus tried, but Rare Exports is far superior. 
+So you should check it out! If you've seen the recent movie, Sisu, you'll recognize him here.
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - Rare Exports: A Christmas Tale (2010)](https://www.imdb.com/title/tt1401143/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
