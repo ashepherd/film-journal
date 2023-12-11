@@ -59,7 +59,7 @@ Here's what great about it:
 4. The folklore - old Finnish books depicting Santa "correcting" naughty little children
 
 
-{% include image.html id="horns" style="float: left; max-width: 350px" %} Based on a few, short films (watch the original, [Rare Exports Inc.](https://www.shortoftheweek.com/2012/12/24/rare-exports-inc/), ) the story draws us in with a really cool idea - the Elves look like Santa (or what us westerners would recognize as such - apart from them being naked.....always), and Santa is....hard to describe. And this is why it needs a remake. With a running time under 90mins I'd love to see the following:
+{% include image.html id="horns" style="float: left; max-width: 350px; padding: 10px" %} Based on a few, short films (watch the original, [Rare Exports Inc.](https://www.shortoftheweek.com/2012/12/24/rare-exports-inc/), ) the story draws us in with a really cool idea - the Elves look like Santa (or what us westerners would recognize as such - apart from them being naked.....always), and Santa is....hard to describe. And this is why it needs a remake. With a running time under 90mins I'd love to see the following:
 
 {% include image.html id="cookie" style="float: right; max-width: 350px" %}
 
