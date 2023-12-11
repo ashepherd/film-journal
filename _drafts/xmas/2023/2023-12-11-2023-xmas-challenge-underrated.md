@@ -76,6 +76,8 @@ All good movies have **great** scenes. 8-Bit has them and they are more than jus
 
 Back to Doogie Howser - most of the film is flashback to Doogie as a kid in 1988. He's in the movie about as much as Peter Falk & Fred Savage in The Princess Bride. The characters are interesting, and you are rooting for their wishes to come true. {% include image.html id="steve-zahn" style="float: left; max-width: 200px; padding: 10px" %} {% include image.html id="david-cross" style="float: left; max-width: 200px; padding: 10px" %} Steve Zahn (Doogie's dad) and David Cross (black market toy dealer)  are memorable along with the gang of kids.
 
+<p style="clear: both">&nbsp;</p>
+
 It's a slice of life, but best of all, its sweet hearted, good-natured, and has a truly heartwarming ending. Give it a watch!
 
 {% include image.html id="power-glove" style="max-width: 200px" %}{% include image.html id="bully" style="max-width: 200px" %}{% include image.html id="black-market" style="max-width: 200px" %}
