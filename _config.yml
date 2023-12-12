@@ -15,6 +15,9 @@ description: A film journal
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
 
+# Allow future dated posts
+future: true
+
 collections:
   drafts:
     output: true
