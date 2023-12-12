@@ -36,7 +36,7 @@ images:
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#details">The Details</a> | <a href="#credits">Credits</a></p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-details">The Details</a> | <a href="#credits">Credits</a></p>
   <p>{% include image.html id="poster" %}{% include image.html id="dec12" style="max-width: 168px"%}</p>
 </div>
 
