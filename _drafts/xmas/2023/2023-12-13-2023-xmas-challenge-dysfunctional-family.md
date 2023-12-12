@@ -59,7 +59,7 @@ images:
 
 Most dysfunctional family goes to Santa and Bob Newhart. {% include image.html id="santa" style="float: right; max-width: 200px" %}{% include image.html id="newhart" style="float: right; max-width: 200px" %} To recap, Will Ferrell's Elf as an orphan baby crawled into Santa's sack of gifts on Christmas Eve during his annual visit to the orphanage. Seems like a reasonable premise, but, by Gawd..... let's think about this. 
 
-{% include image.html id="santa" style="float: left; max-width: 350px" %}
+{% include image.html id="baby" style="float: left; max-width: 350px" %}
 - Does Santa **NOT** empty his sack of gifts before returning to the North Pole? Would he not discover the baby mid-trip? 
 - Understanding that the sack was made by the same fashion designer who created Mary Poppin's handbag and Newton Scamander's suitcase could explain how the sack might have the magical powers to keep a baby warm (and deep) enough to survie the trip.
 
