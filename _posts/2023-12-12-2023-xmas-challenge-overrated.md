@@ -30,7 +30,6 @@ images:
     display: inline
   - id: rizz
     path: xmas/2023/love-actually-rizz.jpg
-    caption: "_SIDENOTE: 'Rizz' means having the skill to charm or seduce a potential romantic partner, especially through verbal communication."
     url: https://www.today.com/parents/teens/rizz-meaning-social-media-slang-rcna89400
     display: inline
 ---
