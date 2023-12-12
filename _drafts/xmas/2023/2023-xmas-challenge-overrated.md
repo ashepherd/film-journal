@@ -58,13 +58,13 @@ images:
  
 OK, look I'll be honest. I haven't seen it since we first rented it on DVD. Maybe, at the time, I had been forced to watch too much of 'The O.C.'  and I couldn't handle anymore love. {% include image.html id="oc" style="float: left; padding: 10px; max-width: 350px" %}  So, I reserve the right to rewatch it this Christmas season and change my mind.  Until then, I remember feeling this movie had the broad brushstrokes of all the romantic/love things. And, Yes, it's cameo city. But who cares? You got nine stories, you NEED recognizable faces. There isn't enough time to develop a character. But maybe they weren't going for developed characters. Maybe they wanted to bang on the piano and see what horrid sights and sound arose.
 
-9 storylines hasn't been done well until Game of Thrones came along. {% include image.html id="got" style="float: right; padding: 10px; max-width: 200px" %} And that took 70 hours~! I don't think even the fans of Love Actually want seven seasons of this, but maybe another approach would appease my soul? If you want 9 storylines, what about going deep like Michael Apted's 7up series. He interviews the same group of people every 7 years. That would be 2003, 2010, 2017, 2024. THEN, we'll see Love, actually (heehee). The titles could reflect the sign of the times? Use words from that era?
+9 storylines hasn't been done well until Game of Thrones came along. {% include image.html id="got" style="float: right; padding: 10px; max-width: 200px" %} And that took 70 hours~! I don't think even the fans of Love Actually want seven seasons of this, but maybe another approach would appease my soul? If you want 9 storylines, what about going deep like Michael Apted's 7up series. He interviews the same group of people every 7 years. That would be 2003, 2010, 2017, 2024. THEN, we'll see Love, actually (heehee). The titles could reflect the sign of the times? Use words from that era? Back in my day you'd say, "they got game!" Nowadays, these kids running around hear talking about 'rizz'. We could have seqments, that focus on just one of these storylines, and hit us with a Christmas fury like:
+
+- 2010 'Love Actually: He Got Game'
+- 2017 'Love Actually: Puttin on The Rizz'
+- 2024 'Love Actually: The Son Also Rizzes' (for Daniel and Sam)
 
 {% include image.html id="rizz" style="float: right; padding: 10px; max-width: 700px" %}
-
-- 'Love Actually: He Got Game'
-- 'Love Actually: Puttin on The Rizz'
-- 'Love Actually: The Son Also Rizzes' (for Daniel and Sam)
 
 I dunno....9 storylines? I just can't.
 
