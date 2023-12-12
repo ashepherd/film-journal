@@ -37,7 +37,7 @@ images:
     path: https://images.ctfassets.net/usf1vwtuqyxm/1xTimS8dCfFG7kRfMeX56q/bb0ba15d761da653b49df8eaf03b1289/WB-FB2-newt-scamander-coming-out-of-case-crimes-of-grindelwald.jpg
     display: inline
   - id: handbag
-    path: https://myclaritymylight.files.wordpress.com/2016/02/mary-poppins-bag.jpg?w=620
+    path: xmas/2023/elf-handbag.png
     display: inline
   - id: punch
     path: https://media.tenor.com/j9XzB97CnoUAAAAM/father-christmas-santa.gif
@@ -71,13 +71,11 @@ To recap, Will Ferrell's Elf as an orphan baby crawled into Santa's sack of gift
 - Does Santa **NOT** empty his sack of gifts before returning to the North Pole? Would he not discover the baby mid-trip? 
 - Understanding that the sack was made by the same fashion designer who created Mary Poppin's handbag and Newton Scamander's suitcase could explain how the sack might have the magical powers to keep a baby warm (and deep) enough to survie the trip.
 
-{% include image.html id="newt" style="max-width: 350px" %}{% include image.html id="hangbag" style="max-width: 350px" %}
+{% include image.html id="newt" style="max-width: 350px" %}{% include image.html id="handbag" style="max-width: 350px" %}
 
 - But, upon finding the baby, Santa and Bob Newhart don't think to return it to the orphanage? Was this not a good idea because Santa was lazy? The orphanage was EMPTY. Meaning its pretty darn good a placing baby orphans with HUMAN FAMILIES. **WHAT IS THE RATIONALE BEHIND KEEPING THIS MAN BEAST IN THE NORTH POLE?**
 
-**#1 - Santa and Bob Newhart have committed a kidnapping.** In NYC, it's a [class A-I felony](https://criminaldefense.1800nynylaw.com/new-york-penal-law-135-25-kidnapping-in-the-first-degree.html#:~:text=Kidnapping%20in%20the%20first%20degree%20is%20a%20class%20A%2DI%20felony,would%20be%2015%2D40%20years.) - minimum 15-40 yrs up to life in PRISON, suckah. And there's no one to hold them accountable. How much creedence does THIS give to Santa's naughty list?! This kid was right to question Santa's naughty list - he SHOULD have his beard punched off!
-
-{% include image.html id="punch" style="max-width: 350px" %}
+**#1 - Santa and Bob Newhart have committed a kidnapping.** In NYC, it's a [class A-I felony](https://criminaldefense.1800nynylaw.com/new-york-penal-law-135-25-kidnapping-in-the-first-degree.html#:~:text=Kidnapping%20in%20the%20first%20degree%20is%20a%20class%20A%2DI%20felony,would%20be%2015%2D40%20years.) - minimum 15-40 yrs up to life in PRISON, suckah. {% include image.html id="punch" style="float: right; max-width: 350px" %} And there's no one to hold them accountable. How much creedence does THIS give to Santa's naughty list?! This kid was right to question Santa's naughty list - he SHOULD have his beard punched off!
 
 **#2 - This so-called family at the North Pole can't build Elf a proper bed?!**. Yes, they can build 1,000 Etch-a-Sketches in 1 day, but can't take the time to build him a bed. Let alone a decent living structure. They **prefer** to sadistically force him to sleep in disarray. 
 
