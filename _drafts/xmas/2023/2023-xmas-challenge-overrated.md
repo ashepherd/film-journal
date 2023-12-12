@@ -37,7 +37,7 @@ images:
 
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec11" style="max-width: 168px"%}</p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec12" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
