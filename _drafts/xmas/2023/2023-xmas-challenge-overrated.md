@@ -57,7 +57,7 @@ images:
 
 Where is Raul, the vice director of a Venezuelan parks department, when we need him?? 9 storylines? Right to Jail (you too, [Short Cuts (1993)](https://www.imdb.com/title/tt0108122/))
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eiyfwZVAzGw?si=SelbP_Wpz2J4E2Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eiyfwZVAzGw?si=Q2IVFWqh0JOtKAHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 OK, look I'll be honest. I haven't seen it since we first rented it on DVD. Maybe, at the time, I had been forced to watch too much of 'The O.C.' {% include image.html id="oc" style="float: left; padding: 10px max-width: 350px" %} and I couldn't handle anymore love. So, I reserve the right to rewatch it this Christmas season and change my mind. Until then, I remember feeling this movie had the broad brushstrokes of all the romantic/love things. And, Yes, it's cameo city. But who cares? You got nine stories, you NEED recognizable faces. There isn't enough time to develop a character. But maybe they weren't going for developed characters. Maybe they wanted to bang on the piano and see what horrid sights and sound arose.
