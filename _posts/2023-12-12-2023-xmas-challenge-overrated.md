@@ -29,7 +29,7 @@ images:
     path: https://assets.vogue.com/photos/64d7f4ea135790a539ac277d/4:3/pass/undefined
     display: inline
   - id: rizz
-    path: xmas/2023/love-actually-rizz.jpg
+    path: xmas/2023/love-actually-rizz.png
     url: https://www.today.com/parents/teens/rizz-meaning-social-media-slang-rcna89400
     display: inline
 ---
