@@ -30,6 +30,8 @@ images:
     display: inline
   - id: rizz
     path: https://images.axios.com/nuc0UpgqEpPAYJMwdBIPuHUD60A=/0x0:1920x1080/1920x1080/2023/12/04/1701713745497.png
+    caption: "_SIDENOTE: 'Rizz' means having the skill to charm or seduce a potential romantic partner, especially through verbal communication."
+    url: https://www.today.com/parents/teens/rizz-meaning-social-media-slang-rcna89400
     display: inline
 ---
 
@@ -67,11 +69,9 @@ OK, look I'll be honest. I haven't seen it since we first rented it on DVD. Mayb
 
 {% include image.html id="rizz" style="float: right; padding: 10px; max-width: 350px" %}
 
-- "Love Actually: He Got Game"
-- "Love Actually: Puttin on The Rizz"
-- "Love Actually: The Son Also Rizzes" (for Daniel and Sam)
-
-_SIDENOTE: "Rizz" means having the skill to charm or seduce a potential romantic partner, especially through verbal communication._
+- 'Love Actually: He Got Game'
+- 'Love Actually: Puttin on The Rizz'
+- 'Love Actually: The Son Also Rizzes' (for Daniel and Sam)
 
 I dunno....9 storylines? I just can't.
 
