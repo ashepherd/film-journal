@@ -39,6 +39,9 @@ images:
   - id: handbag
     path: https://myclaritymylight.files.wordpress.com/2016/02/mary-poppins-bag.jpg?w=620
     display: inline
+  - id: punch
+    path: https://media.tenor.com/j9XzB97CnoUAAAAM/father-christmas-santa.gif
+    display: inline
 ---
 
 <div style="text-align: center">
@@ -68,6 +71,8 @@ Most dysfunctional family goes to Santa and Bob Newhart. {% include image.html i
 - But, upon finding the baby, Santa and Bob Newhart don't think to return it to the orphanage? Was this not a good idea because Santa was lazy? The orphanage was EMPTY. Meaning its pretty darn good a placing baby orphans with HUMAN FAMILIES. **WHAT IS THE RATIONALE BEHIND KEEPING THIS MAN BEAST IN THE NORTH POLE?**
 
 **#1 - Santa and Bob Newhart have committed a kidnapping.** In NYC, it's a [class A-I felony](https://criminaldefense.1800nynylaw.com/new-york-penal-law-135-25-kidnapping-in-the-first-degree.html#:~:text=Kidnapping%20in%20the%20first%20degree%20is%20a%20class%20A%2DI%20felony,would%20be%2015%2D40%20years.) - minimum 15-40 yrs up to life in PRISON, suckah. And there's no one to hold them accountable. How much creedence does THIS give to Santa's naughty list?! This kid was right to question Santa's naughty list - he SHOULD have his beard punched off!
+
+{% include image.html id="punch" style="max-width: 350px" %}
 
 **#2 - This so-called family at the North Pole can't build Elf a proper bed?!**. Yes, they can build 1,000 Etch-a-Sketches in 1 day, but can't take the time to build him a bed. Let alone a decent living structure. They **prefer** to sadistically force him to sleep in disarray. 
 
