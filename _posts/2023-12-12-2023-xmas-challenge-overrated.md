@@ -36,7 +36,7 @@ images:
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#credits">Credits</a></p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#details">The Details</a> | <a href="#credits">Credits</a></p>
   <p>{% include image.html id="poster" %}{% include image.html id="dec12" style="max-width: 168px"%}</p>
 </div>
 
@@ -48,7 +48,7 @@ images:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/H9Z3_ifFheQ?si=fIvKwQuhZkEBBJ_X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-## The Gist
+## The Details
 
 9 storylines. Nine. Nueve. Neun. Neuf. Ni. 9. Storylines. NINE. Nein. Nein. Nein. Nein. 
 
