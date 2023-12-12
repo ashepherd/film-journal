@@ -71,7 +71,7 @@ Most dysfunctional family goes to Santa and Bob Newhart. {% include image.html i
 
 **#2 - This so-called family at the North Pole can't build Elf a proper bed?!**. Yes, they can build 1,000 Etch-a-Sketches in 1 day, but can't take the time to build him a bed. Let alone a decent living structure. They **prefer** to sadistically force him to sleep in disarray. 
 
-{% include image.html id="bed" style="max-width: 350px" %}{% include image.html id="shower" style="max-width: 350px" %}
+{% include image.html id="bed" style="max-width: 350px" %}{% include image.html id="shower" style="max-height: 233px" %}
 
 **#3 - They clearly haven't prepared him ever to be a human**.  BUT! BUT!! They are gonna let him go to NYC, of all places. With the mind of a 6yr old. Santa and Bob Newhart are a piece, man. No wonder Elf was prepared to meet the worst father in the world and BE OKAY with it. 
 
