@@ -179,7 +179,14 @@ images:
 
 ## The Gist
 
-The text
+- Making John McClane wait for 30min
+- being at the airport at Christmas at one of the busiest ports
+- naked karate practice
+- Old lady tazored her dog?!
+- Having you bag gunned off the conveyor
+- Taking hairspray in the eyes
+- Being stuck on an airplane with the ornery reporter guy - Mr. Thornburg
+- Having to ice pick frozen ground
 
 <div style="text-align: center">
   {% include image.html id="poster" style="max-width: 168px" %}
