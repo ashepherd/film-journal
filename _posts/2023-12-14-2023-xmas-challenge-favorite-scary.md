@@ -45,7 +45,7 @@ For introverts like me, there IS nothing scarier than having to travel by air du
 
 {% include image.html id="downtime" style="max-height: 350px" %}
 
-Die Hard 2 jumps right into this fear by having us tag along with John as he attempts to pick up his wife from Dulles Airport for Christmas. The film starts with a curbside pickup at the airport. My anxiety is already sky-high thinking about having to sit there with the hazard lights on while her plane is late to arrive. {% include image.html id="car" style="float: right; max-width=250px" %}John's car gets towed after he leaves it unattended (for heaven's sake, take me now, Lord, I can't handle it).
+Die Hard 2 jumps right into this fear by having us tag along with John as he attempts to pick up his wife from Dulles Airport for Christmas. The film starts with a curbside pickup at the airport. My anxiety is already sky-high thinking about having to sit there with the hazard lights on while her plane is late to arrive. {% include image.html id="car" style="float: right; max-width=250px" %}John's car gets towed after he leaves it unattended _(for heaven's sake, take me now, Lord, I can't handle it)_.
 
 Die Hard 2 is scary for many reasons:
 
@@ -58,13 +58,14 @@ Die Hard 2 is scary for many reasons:
 
 But the real scare is....John McClane having to wait for the arrival of a delayed flight. Why? Because had he not had a few moments of downtime to ponder whether he really saw a concealed weapon across the lounge, 80+ people would still be alive. 
 
-Yes. 84 people are killed in Die Hard 2 (you'd expect this when Franco Nero, the original gunslinger Django, is one of the villains). Now, a handful of deaths were inevitable, like the poor church custodian was eating it no matter what. But, because McClane gets bored and irritated and has his NYC spidey senses about him, 80 more chaps meet their maker. Maybe this criminal scheme would've gone smoothly had McClane not intervened. After all, Colonel Stuart, it's Christmas. But, NO!. This film is a horror - Christmas gone haywire over having to be at the airport with a towed car, delayed flight, and an itchy finger trigger. 
+Yes. 84 people are killed in Die Hard 2 (you'd expect this when Franco Nero, the original gunslinger Django, is one of the villains). Now, a handful of deaths were inevitable, like the poor church custodian was eating it no matter what. But, because McClane gets bored and irritated and has his NYC spidey senses about him, 80 more chaps meet their maker. Maybe this criminal scheme would've gone smoothly had McClane not intervened. After all, Colonel Stuart, it's Christmas. But, NO!. This film is a horror - Christmas gone haywire over having to be at the airport with a towed car, delayed flight, and an itchy trigger finger. 
 
-(Where's the Tylenol....)
+_(Where's the Tylenol....)_
 
 ## Credits
 
 * [IMDb - Die Hard 2 (1990)](https://www.imdb.com/title/tt0099423/)
+* [Kill Counts @ fandom.com - Deaths on Die Hard 2](https://killcounts.fandom.com/wiki/Deaths_on_Die_Hard_2)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
