@@ -1,172 +1,34 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Favorite Scary - Die Hard 2 (1990)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://m.media-amazon.com/images/M/MV5BYzRkNzc4MjUtZDlkNy00Y2M5LThiZTktMWE5YzE5YjRjYWMzXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UY3000_.jpg" width="125px"/>
+image: https://m.media-amazon.com/images/M/MV5BYzRkNzc4MjUtZDlkNy00Y2M5LThiZTktMWE5YzE5YjRjYWMzXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UY3000_.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
+    path: https://m.media-amazon.com/images/M/MV5BYzRkNzc4MjUtZDlkNy00Y2M5LThiZTktMWE5YzE5YjRjYWMzXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UY3000_.jpg
+    url: https://www.imdb.com/title/tt0099423/
+    caption: Die Hard 2 (1990)
     max-width: 125px
     display: inline
     border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
+  - id: downtime
+    path: xmas/2023/die-hard-2-downtime.png
     display: inline
-    border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
+  - id: naked
+    path: xmas/2023/die-hard-2-naked.png
     display: inline
-    border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
+  - id: taser
+    path: xmas/2023/die-hard-2-taser.png
     display: inline
-    border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
+  - id: car
+    path: xmas/2023/die-hard-2-car.png
     display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec08
-    path: xmas/dec08-weirdest.jpeg
-    caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec10
-    path: xmas/dec10-most-in-need-remake.jpeg
-    caption: Most in Need of Remake	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec11
-    path: xmas/dec11-most-underrated.jpeg
-    caption: Most Underrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
-    caption: Favorite Sequel
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
-    max-width: 125px
-    display: inline
-    border: true
 ---
 
 <div style="text-align: center">
-  <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
+  <p><a href="#the-trailer">Trailer</a> | <a href="#the-details">The Details</a> | <a href="#credits">Credits</a></p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec14" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
@@ -174,95 +36,35 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CvHp7xJZ4_U?si=SfVMYxItxdUdJsWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-## The Gist
-
-- Making John McClane wait for 30min
-- being at the airport at Christmas at one of the busiest ports
-- naked karate practice
-- Old lady tazored her dog?!
-- Having you bag gunned off the conveyor
-- Taking hairspray in the eyes
-- Being stuck on an airplane with the ornery reporter guy - Mr. Thornburg
-- Having to ice pick frozen ground
-
-<div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
-</div>
-
 
 ## The Details
 
-...
+For introverts like me, there IS nothing scarier than having to travel by air during the holidays...except John McClane having to wait 30min for his wife's delayed flight.  
 
-## Awards
+{% inlude image.html id="downtime" %}
 
-### _...from the Rewatchables Podcast_
+Die Hard 2 jumps right into this fear by having us tag along with John as he attempts to pick up his wife from Dulles Airport for Christmas. The film starts with a curbside pickup at the airport. My anxiety is already sky-high thinking about having to sit there with the hazard lights on while her plane is late to arrive. {% inlude image.html id="car" style="float: right; max-width=250px" %}John's car gets towed after he leaves it unattended (for heaven's sake, take me now, Lord, I can't handle it).
 
-#### Most Rewatchable Scene
+Die Hard 2 is scary for many reasons:
 
-[youtube embed]
+1. A colonel practicing naked martial arts in his hotel room;
+2. An elderly woman who thought it decent to test her taser out on her pet dog;
+3. Having your luggage lost at the airport because it was shot off the conveyor belt. (let alone the gifts you packed inside that have now been "opened up" by a 9mm slug);
+4. Being hair-sprayed in the eyes during the MOST visual holiday of the year.
 
-<p>&nbsp;</p>
+{% inlude image.html id="naked" %}{% inlude image.html id="taser" %}
 
-#### The "Den of Thieves Benihana" Award for Scene Stealing Location
+But the real scare is....John McClane having to wait for the arrival of a delayed flight. Why? Because had he not had a few moments of downtime to ponder whether he really saw a concealed weapon across the lounge, 80+ people would still be alive. 
 
-List it
+Yes. 84 people are killed in Die Hard 2 (you'd expect this when Franco Nero, the original gunslinger Django, is one of the villains). Now, a handful of deaths were inevitable, like the poor church custodian was eating it no matter what. But, because McClane gets bored and irritated and has his NYC spidey senses about him, 80 more chaps meet their maker. Maybe this criminal scheme would've gone smoothly had McClane not intervened. After all, Colonel Stuart, it's Christmas. But, NO!. This film is a horror - Christmas gone haywire over having to be at the airport with a towed car, delayed flight, and an itchy finger trigger. 
 
-<p>&nbsp;</p>
-
-#### What Piece of Memorabilia Would You Want From This Movie?
-
-The Butcher's Costume
-{% include image.html id="butcher" style="max-width: 560px" %}
-
-<p>&nbsp;</p>
-
-#### The “Slow Ride” Award for Best Needle Drop
-
-[youtube embed]
-
-<p>&nbsp;</p>
-
-
-* The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
-* What's Aged the Best?
-* What's Aged the Worst?
-* The Dion Waiters Award for Best Heat Check Performance
-* The Joey Pants "That Guy" Award
-* The "Ruffalo/Hanna/Rubinek/Partridge" Overacting Award
-* Casting What Ifs
-* Half-Assed Internet Research
-* Probably Unanswerable Questions
-* Sequel, Prequel, Limited Series, or All Black Remake (updated)
-* Apex Mountain
-* Who Won the Movie?
-* Picking Nits
-* Recasting Couch (retired sort of since the answer's always Sydney Sweeney)
-* Is this Movie Better with Danny Trejo, Steve Buscemi, or Michael K. Williams? (retired)
-* The "Den of Thieves Benihana" Award for Scene Stealing Location
-* The "Great Shot Gordo" Award for Most Cinematic Shot
-* The "Big Kahuna Burger" Award for Best Use of Food and Drink
-* The "Butch's Girlfriend" Award for the Weakest Link in the Film
-* The "Ron Burgundy Flute" Award for the Best Time for a Pee Break
-* Is There a Better Title for this Movie?
-* The Steven A. Smith Hottest Take Award
-* The Teddy KGB Award for the Actor in a Completely Different Movie
-* Hall of Fame Plaque
-* Just One Oscar
-* Best Double Feature
-* Best Race Horse Name from this Movie
-* What Piece of Memorabilia Would You Want From This Movie?
-* The Coach Finstock Award for Best Life Lesson
-* The “Slow Ride” Award for Best Needle Drop
+(Where's the Tylenol....)
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - Die Hard 2 (1990)](https://www.imdb.com/title/tt0099423/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
