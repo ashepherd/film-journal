@@ -43,7 +43,7 @@ images:
 
 For introverts like me, there IS nothing scarier than having to travel by air during the holidays...except John McClane having to wait 30min for his wife's delayed flight.  
 
-{% include image.html id="downtime" %}
+{% include image.html id="downtime" style="max-height: 350px" %}
 
 Die Hard 2 jumps right into this fear by having us tag along with John as he attempts to pick up his wife from Dulles Airport for Christmas. The film starts with a curbside pickup at the airport. My anxiety is already sky-high thinking about having to sit there with the hazard lights on while her plane is late to arrive. {% include image.html id="car" style="float: right; max-width=250px" %}John's car gets towed after he leaves it unattended (for heaven's sake, take me now, Lord, I can't handle it).
 
@@ -54,7 +54,7 @@ Die Hard 2 is scary for many reasons:
 3. Having your luggage lost at the airport because it was shot off the conveyor belt. (let alone the gifts you packed inside that have now been "opened up" by a 9mm slug);
 4. Being hair-sprayed in the eyes during the MOST visual holiday of the year.
 
-{% include image.html id="naked" %}{% include image.html id="taser" %}
+{% include image.html id="naked" style="max-width: 350px" %}{% include image.html id="taser" style="max-width: 350px" %}
 
 But the real scare is....John McClane having to wait for the arrival of a delayed flight. Why? Because had he not had a few moments of downtime to ponder whether he really saw a concealed weapon across the lounge, 80+ people would still be alive. 
 
