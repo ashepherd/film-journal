@@ -18,11 +18,19 @@ images:
     max-width: 125px
     display: inline
     border: true
-  - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
+  - id: house
+    path: xmas/2023/xmas-vac-house.png
+    display: inline
+  - id: plugs
+    path: xmas/2023/xmas-vac-plugs.png
+    display: inline
+  - id: tree
+    path: xmas/2023/xmas-vac-tree.png
+    display: inline
+  - id: turkey
+    path: xmas/2023/xmas-vac-turkey.png
     display: inline
 ---
-
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#credits">Credits</a></p>
   <p>{% include image.html id="poster" %}{% include image.html id="dec15" style="max-width: 168px"%}</p>
@@ -41,9 +49,10 @@ images:
 Lots of places to slot this film in for the challenge, but for me it's favorite comedy because its true (amazing)! As a kid, I remembered the holiday family gatherings being extremely fun, but chaotic, and all the work, the stress (and joy) that went into it. And the grace (not the character)! The grace folks had with other family members, and this film captures that tension of irritations and joys together. Aside from all the laughs, you don't get a lot of sincere & tender moments in a Chevy Chase comedy. Which is why this film feels so special when he gets trapped up in the attic and watches the family videos. Super fun movie , never gets old.
 
 <div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
+  {% include image.html id="plugs" style="max-height: 168px" %}
+  {% include image.html id="house" style="max-height: 168px" %}
+  {% include image.html id="tree" style="max-height: 168px" %}
+  {% include image.html id="turkey" style="max-height: 168px" %}
 </div>
 
 
