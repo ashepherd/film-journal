@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Least Favorite - Frosty the Snowman (1969)
+title: Least Favorite - Frosty the Snowman (1969)
 categories: [2023 XMAS Challenge]
 excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg" width="125px"/>
-image: [url-to-poster-img.jpg](https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg)
+image: https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg
 images:
   - id: poster
-    path: [url-to-poster-img.jpg](https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg)
+    path: https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg
     url: https://www.imdb.com/title/tt0064349/
     caption: Frosty the Snowman (1969)
     max-width: 125px
