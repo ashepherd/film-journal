@@ -1,172 +1,40 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Favorite Sequel - Home Alone 2: Lost in New York (1992)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
-image: url-to-poster-img.jpg
+excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg" width="125px"/>
+image: https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg
 images:
   - id: poster
-    path: url-to-poster-img.jpg
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec01
-    path: xmas/dec01-childhood-favorite.jpeg
-    caption: Childhood Favorite
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec02
-    path: xmas/dec02-favorite-classic.jpeg
-    caption: Favorite Classic
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec03
-    path: xmas/dec03-favorite-elf.jpeg
-    caption: Favorite Elf
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec04
-    path: xmas/dec04-forget-its-xmas.jpeg
-    caption: I Always Forget is Christmas
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec05
-    path: xmas/dec05-favorite-animated.jpeg
-    caption: Favorite Animated
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec06
-    path: xmas/dec06-worst-santa.jpeg
-    caption: Worst Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec07
-    path: xmas/dec07-favorite-santa.jpeg
-    caption: Favorite Santa
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec08
-    path: xmas/dec08-weirdest.jpeg
-    caption: Weirdest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec09
-    path: xmas/dec09-favorite-remake.jpeg
-    caption: Favorite Remake
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec10
-    path: xmas/dec10-most-in-need-remake.jpeg
-    caption: Most in Need of Remake	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec11
-    path: xmas/dec11-most-underrated.jpeg
-    caption: Most Underrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec12
-    path: xmas/dec12-most-overrated.jpeg
-    caption: Most Overrated	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec13
-    path: xmas/dec13-dysfunctional-family.jpeg
-    caption: Dysfunctional Family
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec14
-    path: xmas/dec14-favorite-scary.jpeg
-    caption: Favorite Scary
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec15
-    path: xmas/dec15-favorite-comedy.jpeg
-    caption: Favorite Comedy
+    path: https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+    url: https://www.imdb.com/title/tt0104431/
+    caption: Home Alone 2: Lost in New York (1992)
     max-width: 125px
     display: inline
     border: true
   - id: dec16
-    path: xmas/dec16-favorite-sequel.jpeg
+    path: xmas/2023/
     caption: Favorite Sequel
     max-width: 125px
     display: inline
     border: true
-  - id: dec17
-    path: xmas/dec17-least-favorite.jpeg
-    caption: Least Favorite
-    max-width: 125px
+  - id: ice-cream
+    path: home-alone2-ice-cream.jpg   
     display: inline
-    border: true
-  - id: dec18
-    path: xmas/dec18-favorite-underlying-theme.jpeg
-    caption: Favorite Underlying Theme
-    max-width: 125px
+  - id: bird-lady
+    path: home-alone2-bird-lady.jpg
     display: inline
-    border: true
-  - id: dec19
-    path: xmas/dec19-unconventional.jpeg
-    caption: Favorite Unexpected (Unconventional)
-    max-width: 125px
+  - id: flaming-head
+    path: home-alone2-head-flame.jpeg 
     display: inline
-    border: true
-  - id: dec20
-    path: xmas/dec20-camraderie.jpeg
-    caption: Favorite Team, Duo or Company
-    max-width: 125px
+  - id: toilet
+    path: home-alone2-toilet.gif
     display: inline
-    border: true
-  - id: dec21
-    path: xmas/dec21-saddest.jpeg
-    caption: Saddest
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec22
-    path: xmas/dec22-inspirational.jpeg
-    caption: Favorite Inspirational
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec23
-    path: xmas/dec23-guilty-pleasure.jpeg
-    caption: Guilty Pleasure
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec24
-    path: xmas/dec24-heartwarming.jpeg
-    caption: Most Heartwarming	
-    max-width: 125px
-    display: inline
-    border: true
-  - id: dec25
-    path: xmas/dec25-all-time-favorite.jpeg
-    caption: All-Time Favorite
-    max-width: 125px
-    display: inline
-    border: true
 ---
 
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#the-details">The Details</a> | <a href="#awards">Awards</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec16" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
@@ -174,88 +42,30 @@ images:
 ## The Trailer 
 
 <div style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4K2C0gcEV3Q?si=qW6vs9VK5nVT-liS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-## The Gist
-
-The text
-
-<div style="text-align: center">
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-width: 168px" %}
-  {% include image.html id="poster" style="max-height: 168px" %}
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5h9VDUNtoto?si=LoEEGioDFvo5XZK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
 ## The Details
 
-...
+HA2 is my favorite sequel for 3 reasons:
+**1. A few days during the holiday free of obligations.**
 
-## Awards
+{% include image.html id="ice-cream" style="float:left; max-width: 350px; padding: 10px" %}We get to live the fantasy of having a few guilt-free days thanks to the hapless gate agents of American Airlines. You camp out in a huge hotel room, watching movies with ice cream sundae room service (to the tune of $976). Even then, when you wanted to get around NYC, a limo will take you there with free pizza. AND, you feel ZERO guilt when tipping with strips of Fruit Stripe. 
 
-### _...from the Rewatchables Podcast_
+**2. The bird lady.**
 
-#### Most Rewatchable Scene
+{% include image.html id="ice-cream" style="float:right; max-width: 350px; padding: 10px" %}I feel her story, and the friendship Kevin and she develops is so interesting. It could've followed a number of cliches, but instead is allowed to be something more beautiful.  It's also an evolution for Kevin's character from the first film in that he isn't so afraid of life's misfits like Old Man Marley. (Note: the part is played wonderfully by Brenda Fricker, whom I remember most as Mike Myer's mother from 'So I Married an Axe Murderer'.)
 
-[youtube embed]
+**3. The most amazing sequence of traps.**
 
-<p>&nbsp;</p>
+{% include image.html id="flaming-head" style="float:left; max-width: 350px; padding: 10px" %}The best part of Christopher Columbus' directing, is cutting away from the most brutal payoffs letting our imagination take over. (Joe Pesci's slow descent into a toilet of chemicals to relieve his flaming head?) My gawd. Only to be taunted with the biting words of a blonde haired, blue-eyed devil, "I'm down here, you big horse's @ss". Kevin becomes a Christmas justice for adult evildoers. He's the Krampus of Christmas Criminals, and boy do these criminals take a savage beating.
 
-#### The "Den of Thieves Benihana" Award for Scene Stealing Location
-
-List it
-
-<p>&nbsp;</p>
-
-#### What Piece of Memorabilia Would You Want From This Movie?
-
-The Butcher's Costume
-{% include image.html id="butcher" style="max-width: 560px" %}
-
-<p>&nbsp;</p>
-
-#### The “Slow Ride” Award for Best Needle Drop
-
-[youtube embed]
-
-<p>&nbsp;</p>
-
-
-* The Neil McCauley “A Book about Metals” Award for Best Line from the Movie (updated)
-* What's Aged the Best?
-* What's Aged the Worst?
-* The Dion Waiters Award for Best Heat Check Performance
-* The Joey Pants "That Guy" Award
-* The "Ruffalo/Hanna/Rubinek/Partridge" Overacting Award
-* Casting What Ifs
-* Half-Assed Internet Research
-* Probably Unanswerable Questions
-* Sequel, Prequel, Limited Series, or All Black Remake (updated)
-* Apex Mountain
-* Who Won the Movie?
-* Picking Nits
-* Recasting Couch (retired sort of since the answer's always Sydney Sweeney)
-* Is this Movie Better with Danny Trejo, Steve Buscemi, or Michael K. Williams? (retired)
-* The "Den of Thieves Benihana" Award for Scene Stealing Location
-* The "Great Shot Gordo" Award for Most Cinematic Shot
-* The "Big Kahuna Burger" Award for Best Use of Food and Drink
-* The "Butch's Girlfriend" Award for the Weakest Link in the Film
-* The "Ron Burgundy Flute" Award for the Best Time for a Pee Break
-* Is There a Better Title for this Movie?
-* The Steven A. Smith Hottest Take Award
-* The Teddy KGB Award for the Actor in a Completely Different Movie
-* Hall of Fame Plaque
-* Just One Oscar
-* Best Double Feature
-* Best Race Horse Name from this Movie
-* What Piece of Memorabilia Would You Want From This Movie?
-* The Coach Finstock Award for Best Life Lesson
-* The “Slow Ride” Award for Best Needle Drop
+{% include image.html id="toilet" style="max-width: 350px; padding: 10px" %}
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - Home Alone 2: Lost in New York (1992)](https://www.imdb.com/title/tt0104431/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
