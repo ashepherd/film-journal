@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Prompt - Movie
+title:  Least Favorite - Frosty the Snowman (1969)
 categories: [2023 XMAS Challenge]
 excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg" width="125px"/>
 image: [url-to-poster-img.jpg](https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg)
 images:
   - id: poster
     path: [url-to-poster-img.jpg](https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg)
-    url: https://www.imdb.com/title/xxxxx/
-    caption: Movie Title
+    url: https://www.imdb.com/title/tt0064349/
+    caption: Frosty the Snowman (1969)
     max-width: 125px
     display: inline
     border: true
@@ -35,11 +35,11 @@ images:
 
 ## The Gist
 
-Frosty the Snowman is a TERRIBLE watch even at its 25-minute runtime. Some punk @ass kids nab a magician's hat and crown this heap of snow. Unbeknownst to them, it comes alive. WHY?? If the hat wsa magic, why didn't it work for the magician? Friggin' STUPID. I was only able to withstand the entire runtime hoping to see an ember from that corncob pipe ignote those coal-nugget eyes ablaze.
+Frosty the Snowman is a TERRIBLE watch even at its 25-minute runtime. Some punk @ass kids nab a magician's hat and crown this heap of snow. Unbeknownst to them, it comes alive. WHY?? If the hat was magic, why didn't it work for the magician? Friggin' STUPID. I was only able to withstand the entire runtime hoping to see an ember from that corncob pipe ignite those coal-nugget eyes ablaze.
 
 ## Credits
 
-* [IMDb - Title](https://www.imdb.com/title/xxxxx/)
+* [IMDb - Frosty the Snowman (1969)](https://www.imdb.com/title/tt0064349/)
 
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
