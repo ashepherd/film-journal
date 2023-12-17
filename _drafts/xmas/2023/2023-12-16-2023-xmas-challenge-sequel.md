@@ -28,7 +28,7 @@ images:
     path: xmas/2023/home-alone2-head-flame.jpeg 
     display: inline
   - id: toilet
-    path: home-alone2-toilet.gif
+    path: xmas/2023/home-alone2-toilet.gif
     display: inline
 ---
 
@@ -56,7 +56,7 @@ HA2 is my favorite sequel for 3 reasons:
 
 **2. The bird lady.**
 
-{% include image.html id="ice-cream" style="float:right; max-width: 350px; padding: 10px" %}I feel her story, and the friendship Kevin and she develops is so interesting. It could've followed a number of cliches, but instead is allowed to be something more beautiful.  It's also an evolution for Kevin's character from the first film in that he isn't so afraid of life's misfits like Old Man Marley. (Note: the part is played wonderfully by Brenda Fricker, whom I remember most as Mike Myer's mother from 'So I Married an Axe Murderer'.)
+{% include image.html id="bird-lady" style="float:right; max-width: 350px; padding: 10px" %}I feel her story, and the friendship Kevin and she develops is so interesting. It could've followed a number of cliches, but instead is allowed to be something more beautiful.  It's also an evolution for Kevin's character from the first film in that he isn't so afraid of life's misfits like Old Man Marley. (Note: the part is played wonderfully by Brenda Fricker, whom I remember most as Mike Myer's mother from 'So I Married an Axe Murderer'.)
 
 **3. The most amazing sequence of traps.**
 
