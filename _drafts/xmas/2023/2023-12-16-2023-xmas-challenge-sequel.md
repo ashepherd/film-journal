@@ -13,19 +13,19 @@ images:
     display: inline
     border: true
   - id: dec16
-    path: xmas/2023/
+    path: xmas/dec16-favorite-sequel.jpeg
     caption: Favorite Sequel
     max-width: 125px
     display: inline
     border: true
   - id: ice-cream
-    path: home-alone2-ice-cream.jpg   
+    path: xmas/2023/home-alone2-ice-cream.jpg   
     display: inline
   - id: bird-lady
-    path: home-alone2-bird-lady.jpg
+    path: xmas/2023/home-alone2-bird-lady.jpg
     display: inline
   - id: flaming-head
-    path: home-alone2-head-flame.jpeg 
+    path: xmas/2023/home-alone2-head-flame.jpeg 
     display: inline
   - id: toilet
     path: home-alone2-toilet.gif
@@ -49,6 +49,7 @@ images:
 ## The Details
 
 HA2 is my favorite sequel for 3 reasons:
+
 **1. A few days during the holiday free of obligations.**
 
 {% include image.html id="ice-cream" style="float:left; max-width: 350px; padding: 10px" %}We get to live the fantasy of having a few guilt-free days thanks to the hapless gate agents of American Airlines. You camp out in a huge hotel room, watching movies with ice cream sundae room service (to the tune of $976). Even then, when you wanted to get around NYC, a limo will take you there with free pizza. AND, you feel ZERO guilt when tipping with strips of Fruit Stripe. 
@@ -61,7 +62,9 @@ HA2 is my favorite sequel for 3 reasons:
 
 {% include image.html id="flaming-head" style="float:left; max-width: 350px; padding: 10px" %}The best part of Christopher Columbus' directing, is cutting away from the most brutal payoffs letting our imagination take over. (Joe Pesci's slow descent into a toilet of chemicals to relieve his flaming head?) My gawd. Only to be taunted with the biting words of a blonde haired, blue-eyed devil, "I'm down here, you big horse's @ss". Kevin becomes a Christmas justice for adult evildoers. He's the Krampus of Christmas Criminals, and boy do these criminals take a savage beating.
 
-{% include image.html id="toilet" style="max-width: 350px; padding: 10px" %}
+<div style="text-align: center">
+  {% include image.html id="toilet" style="max-width: 350px; padding: 10px" %}
+</div>
 
 ## Credits
 
