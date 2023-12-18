@@ -2,7 +2,7 @@
 layout: post
 title:  Prompt - Movie
 categories: [2023 XMAS Challenge]
-excerpt: <img src="url-to-poster-img.jpg" width="125px"/>
+excerpt: ""
 image: url-to-poster-img.jpg
 images:
   - id: poster

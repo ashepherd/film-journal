@@ -2,6 +2,7 @@
 layout: post
 title:  Favorite Elf - Hermey the Dentist, Rudolph the Red-Nosed Reindeer (1964)
 categories: [2023 XMAS Challenge]
+excerpt: ""
 image: https://m.media-amazon.com/images/M/MV5BYjdjZjkyYjUtOWJiZC00ZTE2LTk4MDktZjliOTk5ZDk5ZTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg
 images:
   - id: poster

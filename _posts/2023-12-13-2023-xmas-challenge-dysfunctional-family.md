@@ -2,6 +2,7 @@
 layout: post
 title: Dysfunctional Family - Elf (2003)
 categories: [2023 XMAS Challenge]
+excerpt: ""
 image: https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX620_.jpg
 images:
   - id: poster

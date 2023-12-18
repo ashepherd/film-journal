@@ -2,6 +2,7 @@
 layout: post
 title:  "Most in Need of a Remake - Rare Exports: A Christmas Tale (2010)"
 categories: [2023 XMAS Challenge]
+excerpt: ""
 image: https://film.adamshepherd.net/images/xmas/2023/rare-exports-poster.jpg
 images:
   - id: poster

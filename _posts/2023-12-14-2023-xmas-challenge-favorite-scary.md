@@ -2,6 +2,7 @@
 layout: post
 title:  Favorite Scary - Die Hard 2 (1990)
 categories: [2023 XMAS Challenge]
+excerpt: ""
 image: https://m.media-amazon.com/images/M/MV5BYzRkNzc4MjUtZDlkNy00Y2M5LThiZTktMWE5YzE5YjRjYWMzXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UY3000_.jpg
 images:
   - id: poster

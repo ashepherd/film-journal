@@ -2,6 +2,7 @@
 layout: post
 title:  Most Underrated - 8-Bit Christmas (2021)
 categories: [2023 XMAS Challenge]
+excerpt: ""
 image: https://film.adamshepherd.net/images/xmas/2023/8-bit-xmas-poster.jpg
 images:
   - id: poster
