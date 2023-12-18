@@ -403,6 +403,7 @@ nav {
 
 article.listing .post_date{
   color: #939aa1;
+  text-align: left;
 }
 
 .posts > .post {
@@ -488,6 +489,14 @@ body:after {
     width: 100%;
     overflow: hidden;
     z-index: 1000;
+}
+
+.listing h1 {
+	margin-top: 5px;
+}
+
+.listing div.entry {
+  margin-top: 5px;
 }
 
 .post h1{
