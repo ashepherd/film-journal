@@ -3,7 +3,7 @@ layout: post
 title:  25-Day Christmas Movie Challenge
 categories: [Challenge]
 excerpt: From 'Worst Santa' to 'Most Heartwarming', play the 25-day christmas movie challenge!
-image: images/xmas/challenge.jpeg
+image: /images/xmas/challenge.jpeg
 images:
   - id: dec01
     path: xmas/dec01-childhood-favorite.jpeg
