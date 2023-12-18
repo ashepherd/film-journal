@@ -2,7 +2,6 @@
 layout: post
 title: Least Favorite - Frosty the Snowman (1969)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX380_CR0,4,380,562_.jpg
 images:
   - id: poster

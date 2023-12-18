@@ -2,7 +2,6 @@
 layout: post
 title:  Weirdest - Home Alone (1990)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_FMjpg_UX339_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_FMjpg_UX339_.jpg
 images:
   - id: poster

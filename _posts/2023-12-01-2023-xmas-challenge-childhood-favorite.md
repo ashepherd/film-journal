@@ -3,7 +3,6 @@ layout: post
 title:  Childhood Favorite - The Wizard of Oz (1939)
 categories: [2023 XMAS Challenge]
 image: https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_FMjpg_UX371_.jpg" width="125px">
 images:
   - id: dec01
     path: xmas/dec01-childhood-favorite.jpeg

@@ -2,7 +2,6 @@
 layout: post
 title:  "Favorite Sequel - Home Alone 2: Lost in New York (1992)"
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg
 images:
   - id: poster

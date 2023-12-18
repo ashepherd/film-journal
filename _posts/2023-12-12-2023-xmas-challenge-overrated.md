@@ -2,7 +2,6 @@
 layout: post
 title:  Most Overrated - Love Actually (2003)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_FMjpg_UX1215_.jpg" width="125px"/>
 image: url-to-poster-img.jpg
 images:
   - id: poster

@@ -2,7 +2,6 @@
 layout: post
 title:  Favorite Remake - Scrooge (1951)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BOTZiY2FjYTctMTkzYi00ZDQ5LWE0MDktMzc0Y2QzYzMwMDYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1800_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BOTZiY2FjYTctMTkzYi00ZDQ5LWE0MDktMzc0Y2QzYzMwMDYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1800_.jpg
 images:
   - id: poster

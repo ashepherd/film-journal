@@ -2,7 +2,6 @@
 layout: post
 title:  Favorite Animated - A Charlie Brown Christmas (1965)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BMTQ1NDQxNTcxN15BMl5BanBnXkFtZTgwNzY1Njc1MzE@._V1_FMjpg_UX351_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BMTQ1NDQxNTcxN15BMl5BanBnXkFtZTgwNzY1Njc1MzE@._V1_FMjpg_UX351_.jpg
 images:
   - id: poster

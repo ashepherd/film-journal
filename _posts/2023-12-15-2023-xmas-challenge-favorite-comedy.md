@@ -2,7 +2,6 @@
 layout: post
 title:  Favorite Comedy - National Lampoon's Christmas Vacation (1989)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX520_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX520_.jpg
 images:
   - id: poster

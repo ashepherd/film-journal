@@ -2,7 +2,6 @@
 layout: post
 title:  I Forget It's a Christmas Movie - Rocky (1976)
 categories: [2023 XMAS Challenge]
-excerpt: <img src="https://m.media-amazon.com/images/M/MV5BNTI0NzAxZGUtNzQzNi00MDQwLTgyOWUtZThmZTZiOTQzN2VmXkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_FMjpg_UX1000_.jpg" width="125px"/>
 image: https://m.media-amazon.com/images/M/MV5BNTI0NzAxZGUtNzQzNi00MDQwLTgyOWUtZThmZTZiOTQzN2VmXkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_FMjpg_UX1000_.jpg
 images:
   - id: poster
