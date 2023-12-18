@@ -11,8 +11,9 @@ layout: default
       {% endif %}
       <td>
           <article class="listing">
-            <a href="{{ site.baseurl }}{{ post.url }}"><h1>{{ post.title }}</h1>
+            <a href="{{ site.baseurl }}{{ post.url }}">
               <div><p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p></div>
+              <h1>{{ post.title }}</h1>
             </a>
             <div class="entry">
               {{ post.excerpt }}
