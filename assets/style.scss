@@ -130,7 +130,38 @@ table tr td :last-child {
 	margin-bottom: 0;
 }
 
-.listing table tr td {
+table.listing {
+	padding: 0;
+}
+
+table.listing  tr {
+	border-top: unset;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+table.listing tr:nth-child(2n) {
+	background-color: white;
+}
+
+table.listing tr th {
+	font-weight: bold;
+	border: unset;
+	text-align: left;
+	margin: 0;
+	padding: 6px 13px;
+}
+
+table.listing tr td {
+	vertical-align: top;
+	border: unset;
+	text-align: left;
+	margin: 0;
+	padding: 6px 13px;
+}
+
+table.listing tr td {
 	vertical-align: top;
 }
 
