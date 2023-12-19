@@ -62,8 +62,13 @@ images:
 Laurel & Hardy dimwittedly plot and scheme to release the mortgage so that Bo Beep can marry her true love, the Pied Piper. This film is GREAT! It's a evhicel for Laurel & Hardy skits woven into the Babes in Toyland story. it has rewatchable scenes, hilarious antics, & songs that'll stick in your head. The score is nothing short of amazing. The physical comedy and wordplay are LOL. And the invasion of the Bogeymen is grand! If you love the Three Stooges or the Marx brothers, you are in for a holiday treat!
 
 <table>
-  <tr><td> {% include image.html id="toymaker" style="max-width: 250px" %} </td><td rowspan="2"> {% include image.html id="dunking" style="max-width: 250px" %} </td></tr>
-  <tr><td> {% include image.html id="piggie" style="max-width: 250px" %} </td></tr>
+  <tr>
+    <td> {% include image.html id="toymaker" style="max-width: 250px" %} </td>
+    <td rowspan="2"> {% include image.html id="dunking" style="max-width: 250px" %} </td>
+  </tr>
+  <tr>
+    <td> {% include image.html id="piggie" style="max-width: 250px" %} </td>
+  </tr>
 </table>
 
 ### Great Scenes: 
