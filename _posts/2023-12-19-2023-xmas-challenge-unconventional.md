@@ -55,7 +55,7 @@ images:
 
 ## The Details
 
-{% include image.html id="santa" style="max-width: 300px; padding: 10px; float: right" %} It's July in Toyland when Santa visits to see how his order of 600 1" toy soldiers is going...only to find that Laurel and Hardy took the order and the Toy Master has produced 100 of them at 6' tall! On top of that, Silas Barnaby holds an overdue mortgage on the Old Lady Who lived in a Shoe, but will release the mortgage if she agrees to allow him to marry Little Bo Beep. 
+{% include image.html id="santa" style="max-width: 300px; padding: 10px; float: right" %} It’s July in Toyland when Santa visits to see how his order of 600 1” toy soldiers is going…only to find that Laurel and Hardy took the order and the Toy Master has produced 100 of them at 6’ tall! On top of that, Silas Barnaby holds an overdue mortgage on the Old Woman Who Lived in a Shoe, but will release the mortgage if she agrees to allow him to marry Little Bo Beep. (I mean, the Old Woman had so many children, she didn't know what to do).
 
 {% include image.html id="shoe" style="max-width: 350px" %}{% include image.html id="boo-peep" style="max-width: 350px" %}
 
