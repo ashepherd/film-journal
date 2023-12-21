@@ -41,18 +41,15 @@ images:
 
 ## The Gist
 
-Dec. 20th - Die Hard (1988) - Favorite Team, Duo or Company 
-
-#25daychristmasmoviechallenge
-
 I'm picking John McClane and Sgt. Powell as my favorite Duo this Christmas.  The best part of Die Hard is the killings...I mean the best part of Die Hard is how relatable the characters are. 
 
 Powell is the polar opposite of McClane. Where Powell is sweet-hearted, emasculated & resigned McClane projects gruff, strength & aggression. One a rogue. The other a Yes Man. Despite their differences they find in each other a necessary support and encouragement. An onscreen camaraderie built on vulnerability - which is cool to me because it reminds me of my own buddies. 💛💛🔫🔫👮‍♂️👮🏿‍♂️
 
-  {% include image.html id="mcclane" style="max-width: 200px" %}
-  {% include image.html id="powell" style="max-width: 200px" %}
-  {% include image.html id="end" style="max-width: 200px" %}
-  {% include image.html id="gun" style="max-width: 200px" %}
+  {% include image.html id="mcclane" style="max-width: 350px" %}
+  {% include image.html id="powell" style="max-width: 350px" %}
+  
+  {% include image.html id="end" style="max-width: 350px" %}
+  {% include image.html id="gun" style="max-width: 350px" %}
 
 ## Credits
 
