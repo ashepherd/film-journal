@@ -6,7 +6,7 @@ excerpt: ""
 image: https://m.media-amazon.com/images/M/MV5BNGM1MmRlMzItZjNmMi00NDNlLTgxYjktMzE0OWJmYTk2YTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX100_CR0,1,100,148_.jpg
 images:
   - id: poster
-    path: [url-to-poster-img.jpg](https://m.media-amazon.com/images/M/MV5BNGM1MmRlMzItZjNmMi00NDNlLTgxYjktMzE0OWJmYTk2YTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX100_CR0,1,100,148_.jpg)
+    path: https://m.media-amazon.com/images/M/MV5BNGM1MmRlMzItZjNmMi00NDNlLTgxYjktMzE0OWJmYTk2YTgxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX100_CR0,1,100,148_.jpg
     url: https://www.imdb.com/title/tt0356680/
     caption: The Family Stone (2005)
     max-width: 125px
@@ -34,7 +34,7 @@ images:
 
 <div style="text-align: center">
   <p><a href="#the-trailer">Trailer</a> | <a href="#the-gist">The Gist</a> | <a href="#credits">Credits</a></p>
-  <p>{% include image.html id="poster" %}{% include image.html id="dec03" style="max-width: 168px"%}</p>
+  <p>{% include image.html id="poster" %}{% include image.html id="dec24" style="max-width: 168px"%}</p>
 </div>
 
 {% include hashtag.html url="https://film.adamshepherd.net/xmas-movie-challenge/" hashtag="25daychristmasmoviechallenge" %}
