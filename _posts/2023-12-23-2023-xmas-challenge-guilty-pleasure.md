@@ -13,13 +13,13 @@ images:
     display: inline
     border: true
   - id: mink
-    path: g2-mink.jpg
+    path: xmas/2023/g2-mink.jpg
     display: inline
   - id: slime
-    path: g2-slime.jpg
+    path: xmas/2023/g2-slime.jpg
     display: inline
   - id: liberty
-    path: g2-liberty.jpg
+    path: xmas/2023/g2-liberty.jpg
     display: inline
 ---
 
